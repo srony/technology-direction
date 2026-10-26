@@ -1,4 +1,4 @@
-# direction-loop
+﻿# technology-direction
 
 A research loop that measures the direction of technological change, substitution or complementarity, for
 technologies meeting occupations in industries. Language models do the judging at three steps where expert judgement

@@ -1,4 +1,4 @@
-"""Substitution and complementarity content and employment change, on the public Eurostat table of employment by
+﻿"""Substitution and complementarity content and employment change, on the public Eurostat table of employment by
 two-digit occupation (lfsa_egai2d).
 
 For occupation o in country c over a period t0 to t1,
@@ -42,7 +42,7 @@ def load(code):
     CACHE.mkdir(exist_ok=True)
     fp = CACHE / f"{code}.tsv"
     if not fp.exists():
-        req = urllib.request.Request(URL.format(code=code), headers={"User-Agent": "direction-loop/1.0"})
+        req = urllib.request.Request(URL.format(code=code), headers={"User-Agent": "technology-direction/1.0"})
         with urllib.request.urlopen(req, timeout=180) as r:
             raw = r.read()
         fp.write_bytes(gzip.decompress(raw) if raw[:2] == b"\x1f\x8b" else raw)
