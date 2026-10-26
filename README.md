@@ -9,7 +9,7 @@ repeated ratings and employment change. The pipeline has run once from end to en
 technologies diffusing in Europe. This repository holds its outputs, the instrument that produced the direction ratings,
 and the scripts that rebuild the validation from the released files.
 
-The full results are in the companion paper, Rony, Ciarli and Nomaler (2026), *Green and Digital Technology: Exposure,
+The full results are in the full-length paper, Rony, Ciarli and Nomaler (2026), *Green and Digital Technology: Exposure,
 Substitution and Complementarity*. The calibration of the rating instrument against 608 experts, who rated technologies
 for work tasks in industries, is in Rony and Ciarli (2026), *Silicon survey agents*.
 
@@ -77,7 +77,7 @@ python employment_test.py                       # reads the included Eurostat ta
 ```
 
 `contents.py` and the two validation scripts run on the released files alone and reproduce the numbers of the
-companion paper's direction sections. The employment test reads the Eurostat tables as they were downloaded, so later
+full-length paper's direction sections. The employment test reads the Eurostat tables as they were downloaded, so later
 revisions by Eurostat do not change its result, and it fetches a table only if the file is missing. `rate.py` reruns
 the rating instrument on any grid with the same prompts, model and sampling settings. The ratings are sampled at
 temperature 0.3 through an interface whose hosting provider was not recorded, so a rerun reproduces the distribution of
@@ -88,7 +88,7 @@ the ratings, not each rating. The exposure release reproduces the exposure score
 The patent extract behind the taxonomy matching and the exposure build is licensed and is not redistributed. The
 scripts of the two builds are included for inspection and for holders of the data. The two judge steps of the taxonomy
 and the link review ran on models whose verdicts are released in full, so everything downstream of them reproduces
-exactly. The companion paper also reports the employment test on the restricted EU Labour Force Survey microdata, which
+exactly. The full-length paper also reports the employment test on the restricted EU Labour Force Survey microdata, which
 cannot be shared. The public-table version in `4_validation/` is the reproducible one.
 
 ## Data terms
