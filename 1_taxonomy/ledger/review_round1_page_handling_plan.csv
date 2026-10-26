@@ -1,0 +1,96 @@
+node,page,action,target,belongs
+Sorting Algorithms,Arbitrary-precision arithmetic,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Barrett reduction,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Division algorithm,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Exponentiation by squaring,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Fast inverse square root,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Square root algorithms,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Knuth–Eve algorithm,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Graham scan,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Reverse-search algorithm,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Median cut,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Iterative compression,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Kernelization,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Failure detector,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Shared snapshot objects,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Snapshot algorithm,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Sorting Algorithms,Lawler's algorithm,LEAVE,within-domain (same digital world),Node is about sorting. Flagged pages belong to other algorit
+Swarm and Legged Robotics,Automated pool cleaner,MOVE-NEW,Service & Domestic Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Robotic vacuum cleaner,MOVE-NEW,Service & Domestic Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Robotic lawn mower,MOVE-NEW,Service & Domestic Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Medical robot,MOVE-NEW,Medical & Laboratory Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Robotic surgery,MOVE-NEW,Medical & Laboratory Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,NeuroArm,MOVE-NEW,Medical & Laboratory Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Liquid handling robot,MOVE-NEW,Service & Domestic Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Swarm and Legged Robotics,Laboratory robotics,MOVE-NEW,Medical & Laboratory Robotics,Node label is swarm/legged-locomotion robotics. Flagged page
+Audio Measurement Instruments,Perceptual Evaluation of Video Quality,MOVE,Digital Image Processing & Compositing,"These are video/image quality-assessment metrics, not audio "
+Audio Measurement Instruments,VQuad-HD,MOVE,Digital Image Processing & Compositing,"These are video/image quality-assessment metrics, not audio "
+Audio Measurement Instruments,Video Multimethod Assessment Fusion,MOVE,Digital Image Processing & Compositing,"These are video/image quality-assessment metrics, not audio "
+Audio Measurement Instruments,Visual information fidelity,MOVE,Digital Image Processing & Compositing,"These are video/image quality-assessment metrics, not audio "
+Audio Measurement Instruments,Structural similarity index measure,MOVE,Digital Image Processing & Compositing,"These are video/image quality-assessment metrics, not audio "
+Database Architecture & Query Systems,APE tag,DROP,non-digital / no digital home,APE tag and ID3 are audio-file metadata tagging formats (dig
+Database Architecture & Query Systems,ID3,DROP,non-digital / no digital home,APE tag and ID3 are audio-file metadata tagging formats (dig
+Database Architecture & Query Systems,Character encoding,DROP,non-digital / no digital home,APE tag and ID3 are audio-file metadata tagging formats (dig
+Database Architecture & Query Systems,Chinese character encoding,DROP,non-digital / no digital home,APE tag and ID3 are audio-file metadata tagging formats (dig
+Database Architecture & Query Systems,Ideographic Description Characters,DROP,non-digital / no digital home,APE tag and ID3 are audio-file metadata tagging formats (dig
+Evolutionary & Swarm Optimization,Conformance checking,DROP,non-digital / no digital home,"Conformance checking, Inductive miner, Process mining are bu"
+Evolutionary & Swarm Optimization,Inductive miner,DROP,non-digital / no digital home,"Conformance checking, Inductive miner, Process mining are bu"
+Evolutionary & Swarm Optimization,Process mining,DROP,non-digital / no digital home,"Conformance checking, Inductive miner, Process mining are bu"
+Evolutionary & Swarm Optimization,Employee scheduling software,DROP,non-digital / no digital home,"Conformance checking, Inductive miner, Process mining are bu"
+Authentication & Access Control,Computer virus,MOVE,System Security & Malware Defense,"These belong to malware / attack-vectors, not authentication"
+Authentication & Access Control,SQL injection,MOVE,System Security & Malware Defense,"These belong to malware / attack-vectors, not authentication"
+Authentication & Access Control,Hardware Trojan,MOVE,System Security & Malware Defense,"These belong to malware / attack-vectors, not authentication"
+Medical Imaging,Industrial computed tomography,DROP,non-digital / no digital home,Industrial computed tomography and Neutron tomography are in
+Medical Imaging,Neutron tomography,DROP,non-digital / no digital home,Industrial computed tomography and Neutron tomography are in
+Medical Imaging,Image destriping,MOVE,Digital Image Processing & Compositing,Industrial computed tomography and Neutron tomography are in
+Neural Networks & Deep Learning,PSIPRED,DROP,non-digital / no digital home,PSIPRED is a protein-secondary-structure prediction tool (bi
+Neural Networks & Deep Learning,Tissue cytometry,DROP,non-digital / no digital home,PSIPRED is a protein-secondary-structure prediction tool (bi
+Neural Networks & Deep Learning,Windows Recall,DROP,non-digital / no digital home,PSIPRED is a protein-secondary-structure prediction tool (bi
+Physics Simulation Engines,Surgery simulator,DROP,non-digital / no digital home,Surgery simulator is a medical-training device (medical/surg
+Physics Simulation Engines,Driving simulator,DROP,non-digital / no digital home,Surgery simulator is a medical-training device (medical/surg
+Physics Simulation Engines,Network simulation,MOVE,Network Protocols & Infrastructure,Surgery simulator is a medical-training device (medical/surg
+Semantic Web & Linked Data,Tiki Wiki CMS Groupware,MOVE,Web Standards & Protocols,"These are general wiki/CMS software, not Semantic Web / Link"
+Semantic Web & Linked Data,Wiki,MOVE,Web Standards & Protocols,"These are general wiki/CMS software, not Semantic Web / Link"
+Semantic Web & Linked Data,Wiki software,MOVE,Web Standards & Protocols,"These are general wiki/CMS software, not Semantic Web / Link"
+Spin Qubits,Integrated quantum photonics,LEAVE,within-domain (same digital world),"Node is spin-based qubits (quantum dots, donor/NMR spins). F"
+Spin Qubits,Neutral atom quantum computer,LEAVE,within-domain (same digital world),"Node is spin-based qubits (quantum dots, donor/NMR spins). F"
+Spin Qubits,Trapped-ion quantum computer,LEAVE,within-domain (same digital world),"Node is spin-based qubits (quantum dots, donor/NMR spins). F"
+Tree Data Structures,Concurrent hash table,LEAVE,within-domain (same digital world),Concurrent hash table is a hash-table/hashing structure; Dyn
+Tree Data Structures,Dynamic array,LEAVE,within-domain (same digital world),Concurrent hash table is a hash-table/hashing structure; Dyn
+Tree Data Structures,Parallel array,LEAVE,within-domain (same digital world),Concurrent hash table is a hash-table/hashing structure; Dyn
+Audio Transducers & Equipment,Antenna amplifier,MOVE,Antenna Design & RF Components,"Both are RF/broadcast-signal hardware, not audio: an antenna"
+Audio Transducers & Equipment,Inductive output tube,MOVE,Antenna Design & RF Components,"Both are RF/broadcast-signal hardware, not audio: an antenna"
+"Computer Hardware, Peripherals & Storage",Cyclotron,DROP,non-digital / no digital home,Cyclotron is a particle-accelerator physics instrument (nucl
+"Computer Hardware, Peripherals & Storage",Stereotaxy,DROP,non-digital / no digital home,Cyclotron is a particle-accelerator physics instrument (nucl
+Domain Name System,Spamware,MOVE,System Security & Malware Defense,Spamware is email/spam-distribution malware (anti-spam/email
+Domain Name System,LIVE555,DROP,non-digital / no digital home,Spamware is email/spam-distribution malware (anti-spam/email
+Driver Assistance Systems,Airborne collision avoidance system,DROP,non-digital / no digital home,Both are aircraft avionics systems (aviation flight safety/m
+Driver Assistance Systems,Electronic centralised aircraft monitor,DROP,non-digital / no digital home,Both are aircraft avionics systems (aviation flight safety/m
+Graphical User Interfaces & UX Design,Extensible Computational Chemistry Environment,DROP,non-digital / no digital home,"Both belong to scientific/simulation software, not GUI/UX. E"
+Graphical User Interfaces & UX Design,Multi-simulation coordinator,DROP,non-digital / no digital home,"Both belong to scientific/simulation software, not GUI/UX. E"
+Grid & Distributed Computing Infrastructure,Python Robotics,MOVE,Robot Manipulators and Arm Systems,"These are robotics frameworks/control software, not grid/dis"
+Grid & Distributed Computing Infrastructure,Robot Operating System,MOVE,Robot Manipulators and Arm Systems,"These are robotics frameworks/control software, not grid/dis"
+Industrial and Building Automation,Flower robot,DROP,non-digital / no digital home,Flower robot is a consumer/toy decorative robot (entertainme
+Industrial and Building Automation,Pharmacy automation,DROP,non-digital / no digital home,Flower robot is a consumer/toy decorative robot (entertainme
+Input Devices & Interaction Techniques,Screen protector,DROP,non-digital / no digital home,Both are passive physical protective accessories (protective
+Input Devices & Interaction Techniques,Keyboard protector,DROP,non-digital / no digital home,Both are passive physical protective accessories (protective
+Programming Language Theory,Chinese character description languages,DROP,non-digital / no digital home,Chinese character description languages is a CJK glyph/font 
+Programming Language Theory,Location API for Java ME,DROP,non-digital / no digital home,Chinese character description languages is a CJK glyph/font 
+"Symbolic AI, Knowledge & Agent Systems",Chemical graph generator,DROP,non-digital / no digital home,Both belong to cheminformatics / computational drug discover
+"Symbolic AI, Knowledge & Agent Systems",Virtual screening,DROP,non-digital / no digital home,Both belong to cheminformatics / computational drug discover
+Antenna Design & RF Components,WSDMA,MOVE,Multiplexing & Multiple Access,WSDMA is a wireless multiple-access / air-interface scheme (
+Autonomous Underwater Vehicles,Drone carrier,DROP,non-digital / no digital home,A drone carrier is a surface/aircraft carrier vessel for lau
+"CAD, Solid Modeling & BIM",CAD/CAM dentistry,DROP,non-digital / no digital home,CAD/CAM dentistry is a dental/clinical (medical) application
+Computer Vision & Image Analysis,AudioID,MOVE,"Fingerprinting, Similarity Detection & Content Retrieval",AudioID is an audio-fingerprinting/music-information-retriev
+Electronic Payment Processing,The Graph,DROP,non-digital / no digital home,'The Graph' is a decentralized blockchain indexing/query pro
+Encryption & Cryptographic Primitives,Printer tracking dots,DROP,non-digital / no digital home,Printer tracking dots (machine identification code) is a pri
+Hybrid Interactive TV,Three-way hybrid,DROP,non-digital / no digital home,Three-way hybrid refers to hybrid-electric vehicle powertrai
+"NLP, Generative AI & Language Models",Location-based recommendation,DROP,non-digital / no digital home,Location-based recommendation is a recommender-system/geoloc
+"OS Kernel, Process & Memory Management",Database firewall,MOVE,System Security & Malware Defense,Database firewall is a database/network security appliance t
+Optical Signaling,Underwater telegraph cable,DROP,non-digital / no digital home,Underwater telegraph cable is an electrical submarine telegr
+RFID,Hidden camera,DROP,non-digital / no digital home,"Hidden camera is a covert surveillance/photography device, n"
+Random Number Generation,Master Password (algorithm),LEAVE,within-domain (same digital world),Master Password is a deterministic password-derivation algor
+Road Traffic Management & Passenger Information Systems,Takeoff Acceleration Monitoring System,DROP,non-digital / no digital home,Takeoff Acceleration Monitoring System is an aircraft cockpi
+Robot Manipulators and Arm Systems,Robotic prosthesis control,DROP,non-digital / no digital home,Robotic prosthesis control concerns control of wearable pros
+Smart Cards & Secure Elements,Video Content Protection System,MOVE,TV Conditional Access,Video Content Protection System (VCPS) is a DVD/optical-disc
+Spectral Imaging and Spectroscopy,Infrared homing,DROP,non-digital / no digital home,Infrared homing is a missile guidance / IR-seeker weapons te

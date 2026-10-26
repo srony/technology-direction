@@ -1,0 +1,479 @@
+group,page,L2,keep,kept_page
+-9079552374368827742,GRAPHICS,"OS Kernel, Process & Memory Management",False,Printer driver
+-9079552374368827742,Printer driver,"OS Kernel, Process & Memory Management",True,Printer driver
+-8979325913649975815,USB,"Computer Hardware, Peripherals & Storage",True,USB
+-8979325913649975815,USB LS,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB FS,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB HS,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB Full Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB Full-Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB Hi-Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB High Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB High-Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB Low Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8979325913649975815,USB Low-Speed,"Computer Hardware, Peripherals & Storage",False,USB
+-8949778066700749847,Orthogonal frequency-division multiplexing,Multiplexing & Multiple Access,True,Orthogonal frequency-division multiplexing
+-8949778066700749847,Discrete Multi-Tone,Multiplexing & Multiple Access,False,Orthogonal frequency-division multiplexing
+-8931792499570712633,Windows Error Reporting,"Boot, Firmware & File Systems",True,Windows Error Reporting
+-8931792499570712633,Problem Steps Recorder,"OS Kernel, Process & Memory Management",False,Windows Error Reporting
+-8921932514774915115,Genetic algorithm,Evolutionary & Swarm Optimization,True,Genetic algorithm
+-8921932514774915115,GATTO,"Symbolic AI, Knowledge & Agent Systems",False,Genetic algorithm
+-8786962286329365984,Cursor (user interface),Graphical User Interfaces & UX Design,True,Cursor (user interface)
+-8786962286329365984,Pointer (user interface),Graphical User Interfaces & UX Design,False,Cursor (user interface)
+-8536669367418306124,ODUk,Fiber-Optic Communication & Networking,True,ODUk
+-8536669367418306124,OPUk,Fiber-Optic Communication & Networking,False,ODUk
+-8486572133877155292,Locality-sensitive hashing,Indexing & Search Structures,True,Locality-sensitive hashing
+-8486572133877155292,Locality-preserving hashing,Indexing & Search Structures,False,Locality-sensitive hashing
+-8428247024378150360,Concurrent DOS,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 8-16,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 68K,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 86,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 286,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 386,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS 386/MGE,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent DOS XM,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent CP/M 8-16,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Concurrent PC DOS,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,REAL/32,"Boot, Firmware & File Systems",False,Multiuser DOS
+-8428247024378150360,Multiuser DOS,"OS Kernel, Process & Memory Management",True,Multiuser DOS
+-8428247024378150360,PC-MODE,"OS Kernel, Process & Memory Management",False,Multiuser DOS
+-8421024273729288210,Non-interactive zero-knowledge proof,Encryption & Cryptographic Primitives,True,Non-interactive zero-knowledge proof
+-8421024273729288210,STARK (cryptography),"PKI, Certificates & Secure Protocols",False,Non-interactive zero-knowledge proof
+-8421024273729288210,Zk STARK,"PKI, Certificates & Secure Protocols",False,Non-interactive zero-knowledge proof
+-8418336846723747124,Plasma etcher,Semiconductor Fabrication & Process Technology,False,Plasma etching
+-8418336846723747124,Plasma etching,Semiconductor Fabrication & Process Technology,True,Plasma etching
+-8224530797043625370,Hardware virtualization,"Storage, Virtualization & File Systems",True,Hardware virtualization
+-8224530797043625370,Partial virtualization,"Storage, Virtualization & File Systems",False,Hardware virtualization
+-8148935882034547315,Honeypot (computing),System Security & Malware Defense,True,Honeypot (computing)
+-8148935882034547315,Hack trapper,System Security & Malware Defense,False,Honeypot (computing)
+-8057350338300510262,Satellite navigation device,"GNSS, Satellite Navigation & Positioning",True,Satellite navigation device
+-8057350338300510262,GPS navigation device,"GNSS, Satellite Navigation & Positioning",False,Satellite navigation device
+-7947568552180009023,Adder (electronics),Processor & Memory Architecture,True,Adder (electronics)
+-7947568552180009023,Binary adder,Processor & Memory Architecture,False,Adder (electronics)
+-7927710112035219050,Magnetic-core memory,"Computer Hardware, Peripherals & Storage",True,Magnetic-core memory
+-7927710112035219050,Core memory,"Computer Hardware, Peripherals & Storage",False,Magnetic-core memory
+-7889402232260913294,Nbtstat,Network Protocols & Infrastructure,False,NetBIOS over TCP/IP
+-7889402232260913294,NetBIOS over TCP/IP,Network Protocols & Infrastructure,True,NetBIOS over TCP/IP
+-7880032222902548424,Reset (computing),Processor & Memory Architecture,True,Reset (computing)
+-7880032222902548424,Hardware reset,"OS Kernel, Process & Memory Management",False,Reset (computing)
+-7795481476210947148,Login,Authentication & Access Control,True,Login
+-7795481476210947148,Login (command),Authentication & Access Control,False,Login
+-7795481476210947148,Logout (command),Authentication & Access Control,False,Login
+-7542898033541523215,Windows Sandbox,System Security & Malware Defense,False,Sandbox (computer security)
+-7542898033541523215,Sandbox (computer security),System Security & Malware Defense,True,Sandbox (computer security)
+-7437412681684045115,Driven and parasitic elements,Antenna Design & RF Components,False,Passive radiator
+-7437412681684045115,Passive radiator,Antenna Design & RF Components,True,Passive radiator
+-7368510194495047545,Data warehouse,Database Architecture & Query Systems,True,Data warehouse
+-7368510194495047545,Dimensional database,Database Architecture & Query Systems,False,Data warehouse
+-7268571397747072506,XML and MIME,Web Standards & Protocols,False,XML
+-7268571397747072506,XML,Web Standards & Protocols,True,XML
+-7164346321397109125,Adapter pattern,Software Design Patterns,True,Adapter pattern
+-7164346321397109125,Class adapter pattern,Software Design Patterns,False,Adapter pattern
+-7163226462538160389,Recovery Console,"Boot, Firmware & File Systems",True,Recovery Console
+-7163226462538160389,Fixboot,"Boot, Firmware & File Systems",False,Recovery Console
+-7163226462538160389,Fixmbr,"Boot, Firmware & File Systems",False,Recovery Console
+-7160805315256851667,Dockbus,"Computer Hardware, Peripherals & Storage",False,Hex-Bus
+-7160805315256851667,Hex-Bus,"Computer Hardware, Peripherals & Storage",True,Hex-Bus
+-6875554478035718098,Link aggregation,Network Protocols & Infrastructure,True,Link aggregation
+-6875554478035718098,Broadband bonding,Network Protocols & Infrastructure,False,Link aggregation
+-6858106354345470624,Superheterodyne receiver,Radio Receivers,True,Superheterodyne receiver
+-6858106354345470624,Image frequency,Radio Receivers,False,Superheterodyne receiver
+-6816311444548412613,System Restore,"Boot, Firmware & File Systems",True,System Restore
+-6816311444548412613,System Volume Information,"Boot, Firmware & File Systems",False,System Restore
+-6796688997857612024,JPEG,Data Compression & Codecs,True,JPEG
+-6796688997857612024,JPEG Interchange Format,Data Compression & Codecs,False,JPEG
+-6796688997857612024,Multi-Picture Format,Data Compression & Codecs,False,JPEG
+-6745349829323085212,Method (computer programming),Programming Language Theory,True,Method (computer programming)
+-6745349829323085212,Class method,Programming Language Theory,False,Method (computer programming)
+-6689878882686249994,Telephone,"Telephony, VoIP & Call Management",True,Telephone
+-6689878882686249994,Telephone bell,"Telephony, VoIP & Call Management",False,Telephone
+-6329673305376800492,Bus (computing),"Computer Hardware, Peripherals & Storage",True,Bus (computing)
+-6329673305376800492,Address bus,"Computer Hardware, Peripherals & Storage",False,Bus (computing)
+-6217185519920242548,Sign-on server,Authentication & Access Control,False,Single sign-on
+-6217185519920242548,Single sign-on,Authentication & Access Control,True,Single sign-on
+-6206704723509409623,Multi-task learning,Neural Networks & Deep Learning,True,Multi-task learning
+-6206704723509409623,Multitask optimization,Neural Networks & Deep Learning,False,Multi-task learning
+-6145591390128068960,Spaser,Lasers & Optoelectronic Devices,True,Spaser
+-6145591390128068960,Plasmonic laser,Lasers & Optoelectronic Devices,False,Spaser
+-6139646852642802916,Winprinter,"OS Kernel, Process & Memory Management",False,Graphics Device Interface
+-6139646852642802916,Graphics Device Interface,3D Rendering & Graphics Algorithms,True,Graphics Device Interface
+-6137576550510512396,NvSRAM,"Computer Hardware, Peripherals & Storage",True,NvSRAM
+-6137576550510512396,Battery-backed SRAM,"Computer Hardware, Peripherals & Storage",False,NvSRAM
+-6137576550510512396,BBSRAM,"Computer Hardware, Peripherals & Storage",False,NvSRAM
+-5972741906999701089,Typability,Programming Language Theory,False,Type inference
+-5972741906999701089,Type inference,Programming Language Theory,True,Type inference
+-5972741906999701089,Type reconstruction,Programming Language Theory,False,Type inference
+-5954848233077875558,PC Card,"Computer Hardware, Peripherals & Storage",True,PC Card
+-5954848233077875558,CardBus,"Computer Hardware, Peripherals & Storage",False,PC Card
+-5880851355690407668,Multi-exposure HDR capture,"HDR, Tone Mapping & Image Capture",True,Multi-exposure HDR capture
+-5880851355690407668,Wide dynamic range,"HDR, Tone Mapping & Image Capture",False,Multi-exposure HDR capture
+-5811864011080327000,TurboVNC,"Storage, Virtualization & File Systems",False,VirtualGL
+-5811864011080327000,VirtualGL,3D Rendering & Graphics Algorithms,True,VirtualGL
+-5786853726483231227,Certificate server,"PKI, Certificates & Secure Protocols",False,Certificate authority
+-5786853726483231227,Certificate authority,"PKI, Certificates & Secure Protocols",True,Certificate authority
+-5748364784563817416,No instruction set computing,Processor & Memory Architecture,True,No instruction set computing
+-5748364784563817416,Zero instruction set computer,Processor & Memory Architecture,False,No instruction set computing
+-5739145098077622767,Time-division multiple access,Multiplexing & Multiple Access,True,Time-division multiple access
+-5739145098077622767,Dynamic TDMA,Multiplexing & Multiple Access,False,Time-division multiple access
+-5716001014120321162,SIGCONT,"OS Kernel, Process & Memory Management",True,SIGCONT
+-5716001014120321162,SIGSTOP,"OS Kernel, Process & Memory Management",False,SIGCONT
+-5716001014120321162,SIGTSTP,"OS Kernel, Process & Memory Management",False,SIGCONT
+-5716001014120321162,SIGTTIN,"OS Kernel, Process & Memory Management",False,SIGCONT
+-5716001014120321162,SIGTTOU,"OS Kernel, Process & Memory Management",False,SIGCONT
+-5639095659847179525,Shutdown (computing),"OS Kernel, Process & Memory Management",False,Shutdown (command)
+-5639095659847179525,Shutdown (command),"OS Kernel, Process & Memory Management",True,Shutdown (command)
+-5637592335187211580,DACL,Authentication & Access Control,False,Discretionary access control
+-5637592335187211580,Discretionary access control,Authentication & Access Control,True,Discretionary access control
+-5310155944011279092,Serialization,Grid & Distributed Computing Infrastructure,True,Serialization
+-5310155944011279092,Data serialization language,Grid & Distributed Computing Infrastructure,False,Serialization
+-5187138104219855755,Mutex,"OS Kernel, Process & Memory Management",False,Lock (computer science)
+-5187138104219855755,Lock (computer science),"OS Kernel, Process & Memory Management",True,Lock (computer science)
+-5111715279101890864,Channel (semiconductor),Field-Effect Transistors,False,Field-effect transistor
+-5111715279101890864,Transistor channel,Field-Effect Transistors,False,Field-effect transistor
+-5111715279101890864,Field-effect transistor,Field-Effect Transistors,True,Field-effect transistor
+-5097345226893004829,CAM Table,Network Protocols & Infrastructure,False,Forwarding information base
+-5097345226893004829,Forwarding information base,Network Protocols & Infrastructure,True,Forwarding information base
+-4904181602374139125,Dual independent bus,"Computer Hardware, Peripherals & Storage",False,System bus
+-4904181602374139125,System bus,"Computer Hardware, Peripherals & Storage",True,System bus
+-4857415776292727403,Instruction set architecture,Processor & Memory Architecture,True,Instruction set architecture
+-4857415776292727403,Electronic action,Processor & Memory Architecture,False,Instruction set architecture
+-4693204840955267134,Legged robot,Swarm and Legged Robotics,True,Legged robot
+-4693204840955267134,Walking robot,Swarm and Legged Robotics,False,Legged robot
+-4563735477499486139,Physical icon,Graphical User Interfaces & UX Design,False,Tangible user interface
+-4563735477499486139,Tangible user interface,Input Devices & Interaction Techniques,True,Tangible user interface
+-4297469815729105998,Microarray analysis techniques,Bioinformatics & Sequence Analysis,True,Microarray analysis techniques
+-4297469815729105998,Gene chip analysis,Bioinformatics & Sequence Analysis,False,Microarray analysis techniques
+-3897130203161651122,Partition (database),Database Architecture & Query Systems,True,Partition (database)
+-3897130203161651122,Horizontal partitioning,Database Architecture & Query Systems,False,Partition (database)
+-3549672151780590178,Dynamic priority scheduling,"OS Kernel, Process & Memory Management",True,Dynamic priority scheduling
+-3549672151780590178,Least slack time scheduling,"OS Kernel, Process & Memory Management",False,Dynamic priority scheduling
+-3539503137484066034,One-time password,Authentication & Access Control,True,One-time password
+-3539503137484066034,One-time authorization code,Authentication & Access Control,False,One-time password
+-3375509467532367081,IrFM,Wireless Networks & Protocols,True,IrFM
+-3375509467532367081,IrLAP,Wireless Networks & Protocols,False,IrFM
+-3375509467532367081,IrLMP,Wireless Networks & Protocols,False,IrFM
+-3375509467532367081,Tiny TP,Wireless Networks & Protocols,False,IrFM
+-3357142768883843415,Tesla EtherLoop,Network Protocols & Infrastructure,False,Etherloop
+-3357142768883843415,Etherloop,Network Protocols & Infrastructure,True,Etherloop
+-3351184809935719210,Smart whiteboard,Input Devices & Interaction Techniques,False,Interactive whiteboard
+-3351184809935719210,Interactive whiteboard,Input Devices & Interaction Techniques,True,Interactive whiteboard
+-3304026755092282611,Stereophotogrammetry,Computer Vision & Image Analysis,False,Photogrammetry
+-3304026755092282611,Photogrammetry,Computer Vision & Image Analysis,True,Photogrammetry
+-3134978894531644978,Web cache,Network Protocols & Infrastructure,True,Web cache
+-3134978894531644978,Cache server,Network Protocols & Infrastructure,False,Web cache
+-3134672493285559911,Server log,System Logging,False,Logging (computing)
+-3134672493285559911,Logging (computing),System Logging,True,Logging (computing)
+-3111341808199958650,Computer-aided diagnosis,Medical Imaging,True,Computer-aided diagnosis
+-3111341808199958650,Diagnostic robot,Medical Imaging,False,Computer-aided diagnosis
+-3025901070604880665,Perceptual Evaluation of Speech Quality,Audio Measurement Instruments,True,Perceptual Evaluation of Speech Quality
+-3025901070604880665,PESQ,Audio Measurement Instruments,False,Perceptual Evaluation of Speech Quality
+-2961244888987798248,Virtual DOS machine,"OS Kernel, Process & Memory Management",True,Virtual DOS machine
+-2961244888987798248,NTDOS,"OS Kernel, Process & Memory Management",False,Virtual DOS machine
+-2961244888987798248,NTVDM,"OS Kernel, Process & Memory Management",False,Virtual DOS machine
+-2961244888987798248,MVDM,"OS Kernel, Process & Memory Management",False,Virtual DOS machine
+-2851061512552323660,PC Card modem,Cellular Networks & Mobile Infrastructure,False,Mobile broadband modem
+-2851061512552323660,Mobile broadband modem,Cellular Networks & Mobile Infrastructure,True,Mobile broadband modem
+-2790753132906365338,Canon Hack Development Kit,"Boot, Firmware & File Systems",False,DIGIC
+-2790753132906365338,CHDK,"Boot, Firmware & File Systems",False,DIGIC
+-2790753132906365338,400plus,"HDR, Tone Mapping & Image Capture",False,DIGIC
+-2790753132906365338,DIGIC,"HDR, Tone Mapping & Image Capture",True,DIGIC
+-2790753132906365338,Spy Lantern,"HDR, Tone Mapping & Image Capture",False,DIGIC
+-2635723915169716633,ATM adaptation layer,Network Protocols & Infrastructure,True,ATM adaptation layer
+-2635723915169716633,ATM Adaptation Layer 1,Network Protocols & Infrastructure,False,ATM adaptation layer
+-2631251514358148251,Network scheduler,Network Protocols & Infrastructure,True,Network scheduler
+-2631251514358148251,Linux kernel packet scheduler,Network Protocols & Infrastructure,False,Network scheduler
+-2269665286961835384,Image stabilization,"HDR, Tone Mapping & Image Capture",True,Image stabilization
+-2269665286961835384,Anti-Shake,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Canon Hybrid Image Stabilizer,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Canon Image Stabilizer,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Digital image stabilization,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Image stabilizer,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Konica Minolta Anti-Shake,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Lens-based image stabilization,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Minolta Anti-Shake,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Optical image stabilization,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2269665286961835384,Video stabilization,"HDR, Tone Mapping & Image Capture",False,Image stabilization
+-2213690666439324073,PDQ terminal,Electronic Payment Processing,False,Payment terminal
+-2213690666439324073,Payment terminal,Electronic Payment Processing,True,Payment terminal
+-2090354285111323939,Web (programming system),Programming Language Theory,True,Web (programming system)
+-2090354285111323939,CWEB,Programming Language Theory,False,Web (programming system)
+-1881785304763327063,Display server,Graphical User Interfaces & UX Design,False,Windowing system
+-1881785304763327063,SurfaceFlinger,Graphical User Interfaces & UX Design,False,Windowing system
+-1881785304763327063,Windowing system,Graphical User Interfaces & UX Design,True,Windowing system
+-1783244595641460835,Gesture recognition,Input Devices & Interaction Techniques,True,Gesture recognition
+-1783244595641460835,Gestural interface,Input Devices & Interaction Techniques,False,Gesture recognition
+-1769161762081706718,Parallel manipulator,Robot Manipulators and Arm Systems,True,Parallel manipulator
+-1769161762081706718,Parallel robot,Robot Manipulators and Arm Systems,False,Parallel manipulator
+-1646130331098364472,Container format,Data Compression & Codecs,True,Container format
+-1646130331098364472,Metafile,Data Compression & Codecs,False,Container format
+-1637461319298881802,Container (abstract data type),Tree Data Structures,True,Container (abstract data type)
+-1637461319298881802,Container class,Tree Data Structures,False,Container (abstract data type)
+-1546270660867614068,Serial bus,"Computer Hardware, Peripherals & Storage",False,Serial communication
+-1546270660867614068,Serial communication,"Computer Hardware, Peripherals & Storage",True,Serial communication
+-1508937378078385088,Radio Data System,Radio Data Services,True,Radio Data System
+-1508937378078385088,Alternative frequency,Radio Data Services,False,Radio Data System
+-1411884964767938043,System console,"OS Kernel, Process & Memory Management",False,Computer terminal
+-1411884964767938043,Computer terminal,"OS Kernel, Process & Memory Management",True,Computer terminal
+-1411884964767938043,Character-oriented terminal,"OS Kernel, Process & Memory Management",False,Computer terminal
+-1411884964767938043,Graphical terminal,"OS Kernel, Process & Memory Management",False,Computer terminal
+-1360968480309080616,Frame (artificial intelligence),"Symbolic AI, Knowledge & Agent Systems",True,Frame (artificial intelligence)
+-1360968480309080616,Frame language,"Symbolic AI, Knowledge & Agent Systems",False,Frame (artificial intelligence)
+-1331296003340099751,GNOME-PPP,Network Protocols & Infrastructure,False,WvDial
+-1331296003340099751,WvDial,Network Protocols & Infrastructure,True,WvDial
+-1179005209316013587,Data compression,Data Compression & Codecs,True,Data compression
+-1179005209316013587,Audio compression (data),Data Compression & Codecs,False,Data compression
+-1118901909308321009,Blob detection,Computer Vision & Image Analysis,True,Blob detection
+-1118901909308321009,Laplacian of Gaussian,Digital Image Processing & Compositing,False,Blob detection
+-993350905359755717,Auto dialer,"Telephony, VoIP & Call Management",True,Auto dialer
+-993350905359755717,Predictive dialer,"Telephony, VoIP & Call Management",False,Auto dialer
+-979025017686712948,Welding robot,Robot Manipulators and Arm Systems,False,Robot welding
+-979025017686712948,Robot welding,Robot Manipulators and Arm Systems,True,Robot welding
+-975021511882681038,Phased array,Radar Systems & Signal Processing,True,Phased array
+-975021511882681038,Phased array radar,Radar Systems & Signal Processing,False,Phased array
+-919560003439372722,GPU virtualization,"Storage, Virtualization & File Systems",True,GPU virtualization
+-919560003439372722,Virtualized GPU,"Storage, Virtualization & File Systems",False,GPU virtualization
+-904783068055563555,Scalar processor,Processor & Memory Architecture,True,Scalar processor
+-904783068055563555,Scalar (computing),Processor & Memory Architecture,False,Scalar processor
+-823945605733152797,Audio file,Data Compression & Codecs,True,Audio file
+-823945605733152797,Audio file format,Data Compression & Codecs,False,Audio file
+-651425848942679625,Antenna array,Antenna Design & RF Components,True,Antenna array
+-651425848942679625,Planar array radar,Radar Systems & Signal Processing,False,Antenna array
+-604384551651337072,Microwave landing system,Avionics & Inertial Navigation,True,Microwave landing system
+-604384551651337072,Microwave scanning beam landing system,"GNSS, Satellite Navigation & Positioning",False,Microwave landing system
+-590715074017558726,Artificial ants,Evolutionary & Swarm Optimization,True,Artificial ants
+-590715074017558726,Ant colony optimization algorithms,Evolutionary & Swarm Optimization,False,Artificial ants
+-565738476638351074,Active shutter 3D system,3D Display & Stereoscopic Technologies,True,Active shutter 3D system
+-565738476638351074,3D DLP,3D Display & Stereoscopic Technologies,False,Active shutter 3D system
+-338143319087006692,Instruction prefetch,Processor & Memory Architecture,False,Cache prefetching
+-338143319087006692,Cache prefetching,Processor & Memory Architecture,True,Cache prefetching
+-246884491792003749,Lspci,"Computer Hardware, Peripherals & Storage",True,Lspci
+-246884491792003749,Lsusb,"Computer Hardware, Peripherals & Storage",False,Lspci
+-207065110621051681,Schtasks,"Boot, Firmware & File Systems",True,Schtasks
+-207065110621051681,Windows Task Scheduler,"Boot, Firmware & File Systems",False,Schtasks
+-1216015404236939,For (command),Loop Constructs,False,Loop (statement)
+-1216015404236939,Loop (statement),Loop Constructs,True,Loop (statement)
+12924923398933739,Controlled NOT gate,Quantum computation theory,True,Controlled NOT gate
+12924923398933739,C-ROT gate,Quantum computation theory,False,Controlled NOT gate
+22605652100757574,Common Object Request Broker Architecture,Remote Procedure Calls & Distributed Objects,True,Common Object Request Broker Architecture
+22605652100757574,Portable Object Adapter,Remote Procedure Calls & Distributed Objects,False,Common Object Request Broker Architecture
+22605652100757574,Servant (CORBA),Remote Procedure Calls & Distributed Objects,False,Common Object Request Broker Architecture
+91193676737173069,TCP congestion control,Network Protocols & Infrastructure,False,Congestion window
+91193676737173069,Congestion window,Network Protocols & Infrastructure,True,Congestion window
+91193676737173069,Fast retransmit,Network Protocols & Infrastructure,False,Congestion window
+91891504666019472,Decomposable aggregation function,Database Architecture & Query Systems,False,Aggregate function
+91891504666019472,Aggregate function,Database Architecture & Query Systems,True,Aggregate function
+93183439467333543,SD Express,"Computer Hardware, Peripherals & Storage",False,SD card
+93183439467333543,SD card,"Computer Hardware, Peripherals & Storage",True,SD card
+197189923279728359,Public key certificate,"PKI, Certificates & Secure Protocols",False,Wildcard certificate
+197189923279728359,Wildcard certificate,"PKI, Certificates & Secure Protocols",True,Wildcard certificate
+283906360947738599,3D printing,Additive Manufacturing & 3D Printing,True,3D printing
+283906360947738599,3D printer,Additive Manufacturing & 3D Printing,False,3D printing
+369857570330385213,Nikon Vibration Reduction,"HDR, Tone Mapping & Image Capture",True,Nikon Vibration Reduction
+369857570330385213,Nikon VR (Vibration Reduction),"HDR, Tone Mapping & Image Capture",False,Nikon Vibration Reduction
+397136538844262988,Binary patch,"Build, Version Control & DevOps",False,Patch (computing)
+397136538844262988,Patch (computing),"Build, Version Control & DevOps",True,Patch (computing)
+483984410113631886,Large receive offload,Network Protocols & Infrastructure,False,TCP offload engine
+483984410113631886,Large send offload,Network Protocols & Infrastructure,False,TCP offload engine
+483984410113631886,TCP offload engine,Network Protocols & Infrastructure,True,TCP offload engine
+600258874694055455,SIM card,Cellular Networks & Mobile Infrastructure,True,SIM card
+600258874694055455,Thin SIM,Cellular Networks & Mobile Infrastructure,False,SIM card
+713088877635134961,DFSORT,Sorting Algorithms,True,DFSORT
+713088877635134961,Mainframe sort merge,Sorting Algorithms,False,DFSORT
+792058677317934909,Tpmtool,Authentication & Access Control,True,Tpmtool
+792058677317934909,Tpmvscmgr,Authentication & Access Control,False,Tpmtool
+903244731262004562,SIGNAL (programming language),Programming Language Theory,True,SIGNAL (programming language)
+903244731262004562,Signal programming,Programming Language Theory,False,SIGNAL (programming language)
+1033200147752982967,Peripheral Component Interconnect,"Computer Hardware, Peripherals & Storage",True,Peripheral Component Interconnect
+1033200147752982967,PCI bus,"Computer Hardware, Peripherals & Storage",False,Peripheral Component Interconnect
+1077687617945978593,Weather radar,Radar Systems & Signal Processing,True,Weather radar
+1077687617945978593,Radar meteorology,Radar Systems & Signal Processing,False,Weather radar
+1095777959536340780,Fast start-up,"OS Kernel, Process & Memory Management",False,Hibernation (computing)
+1095777959536340780,Hibernation (computing),"OS Kernel, Process & Memory Management",True,Hibernation (computing)
+1107284249842645865,Bus snooping,Processor & Memory Architecture,True,Bus snooping
+1107284249842645865,Snoopy cache,Processor & Memory Architecture,False,Bus snooping
+1172740090489518655,Backlight,Display Panels,True,Backlight
+1172740090489518655,LED backlight,Display Panels,False,Backlight
+1272214283646012859,Antivirus software,System Security & Malware Defense,True,Antivirus software
+1272214283646012859,Virus scanner,System Security & Malware Defense,False,Antivirus software
+1335605016003021887,Intel 80C187,Processor & Memory Architecture,False,X87
+1335605016003021887,Intel 80387,Processor & Memory Architecture,False,X87
+1335605016003021887,Intel 80487SX,Processor & Memory Architecture,False,X87
+1335605016003021887,X87,Processor & Memory Architecture,True,X87
+1487721922016729684,Dead Peer Detection,"PKI, Certificates & Secure Protocols",False,IPsec
+1487721922016729684,IPsec,Network Protocols & Infrastructure,True,IPsec
+1495899807008626392,Bistatic imaging,Radar Systems & Signal Processing,False,Monostatic radar
+1495899807008626392,Monostatic radar,Radar Systems & Signal Processing,True,Monostatic radar
+1656189099822360755,Swarm robotics,Swarm and Legged Robotics,True,Swarm robotics
+1656189099822360755,Drone swarm,Swarm and Legged Robotics,False,Swarm robotics
+1894383727284137198,Satellite navigation system,"GNSS, Satellite Navigation & Positioning",False,Satellite navigation
+1894383727284137198,Satellite navigation,"GNSS, Satellite Navigation & Positioning",True,Satellite navigation
+1921726606508798442,Natural language query,"NLP, Generative AI & Language Models",False,Natural-language user interface
+1921726606508798442,Natural-language user interface,"NLP, Generative AI & Language Models",True,Natural-language user interface
+1996968551009064150,Message passing,"OS Kernel, Process & Memory Management",True,Message passing
+1996968551009064150,Message (object-oriented programming),Programming Language Theory,False,Message passing
+2123305620141344748,Specialized Mobile Radio,Cellular Networks & Mobile Infrastructure,False,Trunked radio system
+2123305620141344748,Trunked radio system,Cellular Networks & Mobile Infrastructure,True,Trunked radio system
+2152619369101521632,Air-to-surface-vessel radar,Radar Systems & Signal Processing,False,ASV radar
+2152619369101521632,ASV radar,Radar Systems & Signal Processing,True,ASV radar
+2154719078318696852,Entry-sequenced data set,VSAM Data Access,False,Virtual Storage Access Method
+2154719078318696852,Key-sequenced data set,VSAM Data Access,False,Virtual Storage Access Method
+2154719078318696852,Linear data set,VSAM Data Access,False,Virtual Storage Access Method
+2154719078318696852,Relative record data set,VSAM Data Access,False,Virtual Storage Access Method
+2154719078318696852,Virtual Storage Access Method,VSAM Data Access,True,Virtual Storage Access Method
+2200493293860354181,Mobile ad hoc network,Wireless Networks & Protocols,False,Wireless ad hoc network
+2200493293860354181,Wireless ad hoc network,Wireless Networks & Protocols,True,Wireless ad hoc network
+2368180652593370639,Timeout (command),"OS Kernel, Process & Memory Management",True,Timeout (command)
+2368180652593370639,Timeout (computing),Network Protocols & Infrastructure,False,Timeout (command)
+2435880235289529388,Expanded memory,"OS Kernel, Process & Memory Management",True,Expanded memory
+2435880235289529388,Expanded Memory Specification,"OS Kernel, Process & Memory Management",False,Expanded memory
+2435880235289529388,Enhanced EMS,"OS Kernel, Process & Memory Management",False,Expanded memory
+2435880235289529388,Enhanced Expanded Memory Specification,"OS Kernel, Process & Memory Management",False,Expanded memory
+2469254691368494590,Fencing (computing),"Computer Hardware, Peripherals & Storage",True,Fencing (computing)
+2469254691368494590,STONITH,"Computer Hardware, Peripherals & Storage",False,Fencing (computing)
+2489299847594863117,Journey planner,Road Traffic Management & Passenger Information Systems,True,Journey planner
+2489299847594863117,Public transport route planner,Graph Search & Path Planning,False,Journey planner
+2540819524158746409,USB audio class,"Computer Hardware, Peripherals & Storage",False,Sound card
+2540819524158746409,Sound card,"Computer Hardware, Peripherals & Storage",True,Sound card
+2757594687596164352,Escapement (radio control),Actuators and Motion Components,False,Servo (radio control)
+2757594687596164352,Servo (radio control),Actuators and Motion Components,True,Servo (radio control)
+2758131958297158890,Operator (computer programming),Programming Language Theory,True,Operator (computer programming)
+2758131958297158890,User-defined operator,Programming Language Theory,False,Operator (computer programming)
+2775904292797513776,Mac80211,Wireless Networks & Protocols,False,Wireless network interface controller
+2775904292797513776,Wireless network interface controller,Wireless Networks & Protocols,True,Wireless network interface controller
+2802444848240609504,Dynamical simulation,Collision Detection,True,Dynamical simulation
+2802444848240609504,Multibody simulation,Physics Simulation Engines,False,Dynamical simulation
+2822229403053529169,Network socket,Network Protocols & Infrastructure,True,Network socket
+2822229403053529169,Datagram socket,Network Protocols & Infrastructure,False,Network socket
+2822229403053529169,Internet socket,Network Protocols & Infrastructure,False,Network socket
+2822229403053529169,Raw socket,Network Protocols & Infrastructure,False,Network socket
+2822229403053529169,Socket API,Network Protocols & Infrastructure,False,Network socket
+2922730966370391367,Pull printing,Printing & Copying Technology,True,Pull printing
+2922730966370391367,Follow Me (printing),Printing & Copying Technology,False,Pull printing
+2945666323792163314,Videotelephony,"Telephony, VoIP & Call Management",True,Videotelephony
+2945666323792163314,Video conference,"Telephony, VoIP & Call Management",False,Videotelephony
+3007042567676211365,Mesh generation,"CAD, Solid Modeling & BIM",True,Mesh generation
+3007042567676211365,Principles of grid generation,Computational Fluid Dynamics,False,Mesh generation
+3059131452660727803,Gpresult,"Boot, Firmware & File Systems",True,Gpresult
+3059131452660727803,Gpupdate,"Boot, Firmware & File Systems",False,Gpresult
+3124256957766371757,Blockchain,Blockchain & Distributed Ledgers,True,Blockchain
+3124256957766371757,Lightweight blockchain,Blockchain & Distributed Ledgers,False,Blockchain
+3133414040587803653,Base Station Controller,Cellular Networks & Mobile Infrastructure,False,Base station subsystem
+3133414040587803653,Base station subsystem,Cellular Networks & Mobile Infrastructure,True,Base station subsystem
+3192779146178868296,Network switching subsystem,Cellular Networks & Mobile Infrastructure,True,Network switching subsystem
+3192779146178868296,Mobile Switching Center,Cellular Networks & Mobile Infrastructure,False,Network switching subsystem
+3280555194646867591,Proof of work,Blockchain & Distributed Ledgers,True,Proof of work
+3280555194646867591,Nakamoto consensus,Blockchain & Distributed Ledgers,False,Proof of work
+3448707469692942697,PFCP,Network Protocols & Infrastructure,False,Packet Forwarding Control Protocol (PFCP)
+3448707469692942697,Packet Forwarding Control Protocol (PFCP),Network Protocols & Infrastructure,True,Packet Forwarding Control Protocol (PFCP)
+3530321067518380174,Magnetoresistive RAM,"Computer Hardware, Peripherals & Storage",True,Magnetoresistive RAM
+3530321067518380174,ST-MRAM,"Computer Hardware, Peripherals & Storage",False,Magnetoresistive RAM
+3592788873534641496,Router (computing),Network Protocols & Infrastructure,True,Router (computing)
+3592788873534641496,Central Outdoor Router,Network Protocols & Infrastructure,False,Router (computing)
+3592788873534641496,Remote outdoor router,Network Protocols & Infrastructure,False,Router (computing)
+3616541387535183706,AN/GPN-12,Radar Systems & Signal Processing,False,ASR-7
+3616541387535183706,AN/GPN-20,Radar Systems & Signal Processing,False,ASR-7
+3616541387535183706,ASR-7,Radar Systems & Signal Processing,True,ASR-7
+3616541387535183706,ASR-8,Radar Systems & Signal Processing,False,ASR-7
+3735064516274821155,Direction finding,Radar Systems & Signal Processing,True,Direction finding
+3735064516274821155,Radio direction-finding station,Radar Systems & Signal Processing,False,Direction finding
+3940579072790731512,POSIX terminal interface,"OS Kernel, Process & Memory Management",True,POSIX terminal interface
+3940579072790731512,Termios,"OS Kernel, Process & Memory Management",False,POSIX terminal interface
+4164608715484559318,Emphasis (telecommunications),Frequency Modulation,False,Pre-emphasis
+4164608715484559318,Pre-emphasis,Frequency Modulation,True,Pre-emphasis
+4210722136390595853,Ladder line,Antenna Design & RF Components,False,Twin-lead
+4210722136390595853,Twin-lead,Antenna Design & RF Components,True,Twin-lead
+4226982342213088878,System on a chip,Processor & Memory Architecture,True,System on a chip
+4226982342213088878,Multiprocessor system on a chip,Processor & Memory Architecture,False,System on a chip
+4305827685262987275,Keyboard layout,Input Devices & Interaction Techniques,True,Keyboard layout
+4305827685262987275,Greek keyboard,Input Devices & Interaction Techniques,False,Keyboard layout
+4305827685262987275,Workman keyboard layout,Input Devices & Interaction Techniques,False,Keyboard layout
+4615451720668128784,Traffic enforcement camera,Road Traffic Management & Passenger Information Systems,True,Traffic enforcement camera
+4615451720668128784,Speed camera,Road Traffic Management & Passenger Information Systems,False,Traffic enforcement camera
+4738907715541093620,Archive file,"Boot, Firmware & File Systems",True,Archive file
+4738907715541093620,Archive format,Data Compression & Codecs,False,Archive file
+4742186042483094779,CPU cache,Processor & Memory Architecture,True,CPU cache
+4742186042483094779,Cache line,Processor & Memory Architecture,False,CPU cache
+4830990291191969861,Laser engineered net shaping,Additive Manufacturing & 3D Printing,False,Laser metal deposition
+4830990291191969861,Laser metal deposition,Additive Manufacturing & 3D Printing,True,Laser metal deposition
+4848021187858729643,Media Gateway Controller,"Telephony, VoIP & Call Management",False,Media gateway control protocol architecture
+4848021187858729643,Media gateway control protocol architecture,"Telephony, VoIP & Call Management",True,Media gateway control protocol architecture
+4896433672061961390,BFPRT,Sorting Algorithms,False,Median of medians
+4896433672061961390,Median of medians,Sorting Algorithms,True,Median of medians
+5012474119171024738,Heat pipe,Thermal Management,True,Heat pipe
+5012474119171024738,Vapor chamber,Thermal Management,False,Heat pipe
+5056541361504649731,Mail user agent,Email Systems,False,Email client
+5056541361504649731,Email client,Email Systems,True,Email client
+5199914781062760362,Cavity magnetron,Radar Systems & Signal Processing,True,Cavity magnetron
+5199914781062760362,Split-anode magnetron,Radar Systems & Signal Processing,False,Cavity magnetron
+5199914781062760362,Cavity oscillator,Radar Systems & Signal Processing,False,Cavity magnetron
+5328110463293791305,Autocorrelation technique,Radar Systems & Signal Processing,True,Autocorrelation technique
+5328110463293791305,Pulse-pair algorithm,Radar Systems & Signal Processing,False,Autocorrelation technique
+5360474886018020923,Silent speech interface,Neural Interfaces and Biosignal Processing,False,Subvocal recognition
+5360474886018020923,Subvocal recognition,Speech Processing & Voice Interfaces,True,Subvocal recognition
+5491944540339369804,Handheld GPS,"GNSS, Satellite Navigation & Positioning",False,Personal navigation assistant
+5491944540339369804,Personal navigation assistant,"GNSS, Satellite Navigation & Positioning",True,Personal navigation assistant
+5536694021461581167,Chorded keyboard,Input Devices & Interaction Techniques,True,Chorded keyboard
+5536694021461581167,ASETNIOP,Input Devices & Interaction Techniques,False,Chorded keyboard
+5709059036624708630,OpenVMS,"Boot, Firmware & File Systems",True,OpenVMS
+5709059036624708630,DECwindows,"Boot, Firmware & File Systems",False,OpenVMS
+5891473236538363006,Setspn,Authentication & Access Control,False,Kerberos (protocol)
+5891473236538363006,Kerberos (protocol),Authentication & Access Control,True,Kerberos (protocol)
+5909634385347035756,GPS spoofing,"GNSS, Satellite Navigation & Positioning",True,GPS spoofing
+5909634385347035756,GNSS spoofing,"GNSS, Satellite Navigation & Positioning",False,GPS spoofing
+6204030797382002410,Background subtraction,Computer Vision & Image Analysis,False,Foreground detection
+6204030797382002410,Foreground detection,Computer Vision & Image Analysis,True,Foreground detection
+6216294407260440324,PROMPT (command),"Boot, Firmware & File Systems",False,Command-line interface
+6216294407260440324,Command-line interface,Graphical User Interfaces & UX Design,True,Command-line interface
+6400686123159748414,Microphone,Audio Transducers & Equipment,True,Microphone
+6400686123159748414,Crystal microphone,Audio Transducers & Equipment,False,Microphone
+6400686123159748414,Piezo microphone,Audio Transducers & Equipment,False,Microphone
+6941322476836737537,Heartbeat (computing),Network Protocols & Infrastructure,True,Heartbeat (computing)
+6941322476836737537,Heartbeat message,Network Protocols & Infrastructure,False,Heartbeat (computing)
+6992900586568222628,Facial recognition system,Biometrics & Identity Recognition,True,Facial recognition system
+6992900586568222628,Anti facial recognition systems,Biometrics & Identity Recognition,False,Facial recognition system
+7119467466275780102,Direct State Access,3D Rendering & Graphics Algorithms,False,OpenGL
+7119467466275780102,OpenGL,3D Rendering & Graphics Algorithms,True,OpenGL
+7293098354261272754,Fitness tracker,Wearable Devices,True,Fitness tracker
+7293098354261272754,Smart band,Wearable Devices,False,Fitness tracker
+7622475037185251230,Blind signal separation,Digital Signal Processing,True,Blind signal separation
+7622475037185251230,Signal separation,Digital Signal Processing,False,Blind signal separation
+7644140361454497811,Acoustic beacon,Radar Systems & Signal Processing,False,Underwater locator beacon
+7644140361454497811,Underwater locator beacon,Radar Systems & Signal Processing,True,Underwater locator beacon
+7737606401222035606,Bus dma,"Computer Hardware, Peripherals & Storage",False,Busdma
+7737606401222035606,Bus space,"Computer Hardware, Peripherals & Storage",False,Busdma
+7737606401222035606,Busdma,"Computer Hardware, Peripherals & Storage",True,Busdma
+7774070097047662129,Class library,"OS Kernel, Process & Memory Management",False,Library (computing)
+7774070097047662129,Library (computing),"OS Kernel, Process & Memory Management",True,Library (computing)
+7777750758130676322,Optical transport network,Fiber-Optic Communication & Networking,True,Optical transport network
+7777750758130676322,OTU1,Fiber-Optic Communication & Networking,False,Optical transport network
+7777750758130676322,OTU2,Fiber-Optic Communication & Networking,False,Optical transport network
+7777750758130676322,OTU3,Fiber-Optic Communication & Networking,False,Optical transport network
+7777750758130676322,OTUk,Fiber-Optic Communication & Networking,False,Optical transport network
+7778445866530170925,Erasable programmable logic device,"Computer Hardware, Peripherals & Storage",False,Programmable logic device
+7778445866530170925,Programmable logic device,"Computer Hardware, Peripherals & Storage",True,Programmable logic device
+7820942458256498929,Naive Bayes spam filtering,Neural Networks & Deep Learning,False,Naive Bayes classifier
+7820942458256498929,Naive Bayes classifier,Neural Networks & Deep Learning,True,Naive Bayes classifier
+8025245076906876233,Lobe on receive only,Radar Systems & Signal Processing,False,Lobe switching
+8025245076906876233,Lobe switching,Radar Systems & Signal Processing,True,Lobe switching
+8129604986280127622,Magnetic ink character recognition,Optical Character Recognition,True,Magnetic ink character recognition
+8129604986280127622,CMC-7,Optical Character Recognition,False,Magnetic ink character recognition
+8129604986280127622,E-13B,Optical Character Recognition,False,Magnetic ink character recognition
+8246800598774482927,Del (command),"Boot, Firmware & File Systems",False,DEL (command)
+8246800598774482927,DEL (DOS command),"Boot, Firmware & File Systems",False,DEL (command)
+8246800598774482927,DEL (command),"Boot, Firmware & File Systems",True,DEL (command)
+8246800598774482927,DELETE (command),"Boot, Firmware & File Systems",False,DEL (command)
+8246800598774482927,ERA (command),"Boot, Firmware & File Systems",False,DEL (command)
+8246800598774482927,ERA (CP/M command),"Boot, Firmware & File Systems",False,DEL (command)
+8246800598774482927,ERASE,"Boot, Firmware & File Systems",False,DEL (command)
+8251458032628612863,Satellite communications,Cellular Networks & Mobile Infrastructure,False,Communications satellite
+8251458032628612863,Communications satellite,Cellular Networks & Mobile Infrastructure,True,Communications satellite
+8251458032628612863,Data collection satellite,Cellular Networks & Mobile Infrastructure,False,Communications satellite
+8266447966133533043,OCP71,"IC Design, Packaging & Testing",False,Photodiode
+8266447966133533043,Photodiode,Sensors and Detectors,True,Photodiode
+8813152341774858372,Shadow Copy,"Boot, Firmware & File Systems",True,Shadow Copy
+8813152341774858372,Diskshadow,"Boot, Firmware & File Systems",False,Shadow Copy
+8813152341774858372,Vssadmin,"Boot, Firmware & File Systems",False,Shadow Copy
+8818430022953680304,Brain-reading,Neural Interfaces and Biosignal Processing,True,Brain-reading
+8818430022953680304,Thought identification,Neural Interfaces and Biosignal Processing,False,Brain-reading
+8828797028660216194,XLT86,Compiler Optimization & Code Generation,False,TRANS (command)
+8828797028660216194,TRANS (command),"Parsing, Grammars & Syntax Analysis",True,TRANS (command)

@@ -1,0 +1,314 @@
+domain,level,technology,name,parent,root
+digital,base,3D Display & Stereoscopic Technologies,3D Display & Stereoscopic Technologies,3D Visualization,Imaging & Display Technology
+digital,base,3D Rendering & Graphics Algorithms,3D Rendering & Graphics Algorithms,3D Visualization,Imaging & Display Technology
+digital,base,AR/VR & Immersive Technologies,AR/VR & Immersive Technologies,3D Visualization,Imaging & Display Technology
+digital,base,Actuators and Motion Components,Actuators and Motion Components,Robots,Robotics & Manufacturing
+digital,base,Additive Manufacturing & 3D Printing,Additive Manufacturing & 3D Printing,Digital Fabrication,Robotics & Manufacturing
+digital,base,Adiabatic quantum computation,Adiabatic quantum computation,Quantum Algorithms,Quantum Computing
+digital,base,Android Device Management,Android Device Management,System Software & Virtualization,Computing Hardware & Systems
+digital,base,Antenna Design & RF Components,Antenna Design & RF Components,Radar & RF Engineering,Signal Processing & Communications
+digital,base,Audio Measurement Instruments,Audio Measurement Instruments,Media Coding and Compression,Signal Processing & Communications
+digital,base,Audio Transducers & Equipment,Audio Transducers & Equipment,Audio & Signal Processing,Signal Processing & Communications
+digital,base,Authentication & Access Control,Authentication & Access Control,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,Autonomous Farm Equipment,Autonomous Farm Equipment,Robots,Robotics & Manufacturing
+digital,base,Autonomous Underwater Vehicles,Autonomous Underwater Vehicles,Robots,Robotics & Manufacturing
+digital,base,Avionics & Inertial Navigation,Avionics & Inertial Navigation,Navigation & Positioning,Transport & Navigation Systems
+digital,base,Barcode Identification,Barcode Identification,Identification & Payment Systems,Cryptography & Security
+digital,base,Baseband Modulation,Baseband Modulation,Signal Modulation,Signal Processing & Communications
+digital,base,Bioinformatics & Sequence Analysis,Bioinformatics & Sequence Analysis,Scientific Computing & Simulation,Software & Data Management
+digital,base,Biometrics & Identity Recognition,Biometrics & Identity Recognition,Computer Vision & Pattern Recognition,Artificial Intelligence
+digital,base,Biosensors,Biosensors,Sensors & Detection,Robotics & Manufacturing
+digital,base,Blockchain & Distributed Ledgers,Blockchain & Distributed Ledgers,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,"Boot, Firmware & File Systems","Boot, Firmware & File Systems",System Software & Virtualization,Computing Hardware & Systems
+digital,base,"Build, Version Control & DevOps","Build, Version Control & DevOps",Programming Languages & Software Engineering,Software & Data Management
+digital,base,Building Automation & Smart Home,Building Automation & Smart Home,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Burst Error Correction,Burst Error Correction,Error Correction Coding,Signal Processing & Communications
+digital,base,"CAD, Solid Modeling & BIM","CAD, Solid Modeling & BIM",Digital Fabrication,Robotics & Manufacturing
+digital,base,Cellular Networks & Mobile Infrastructure,Cellular Networks & Mobile Infrastructure,Telephony & Signaling,Networking & Telecommunications
+digital,base,Clinical Health IT Systems,Clinical Health IT Systems,Application & Information Systems,Software & Data Management
+digital,base,Clustering Algorithms & Dimensionality Reduction,Clustering Algorithms & Dimensionality Reduction,Machine Learning,Artificial Intelligence
+digital,base,Collision Detection,Collision Detection,Scientific Computing & Simulation,Software & Data Management
+digital,base,Compiler Optimization & Code Generation,Compiler Optimization & Code Generation,Programming Languages & Software Engineering,Software & Data Management
+digital,base,Computational Fluid Dynamics,Computational Fluid Dynamics,Scientific Computing & Simulation,Software & Data Management
+digital,base,"Computer Hardware, Peripherals & Storage","Computer Hardware, Peripherals & Storage",Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Computer Reservation Systems,Computer Reservation Systems,Application & Information Systems,Software & Data Management
+digital,base,Computer Vision & Image Analysis,Computer Vision & Image Analysis,Computer Vision & Pattern Recognition,Artificial Intelligence
+digital,base,Data Capture and Validation,Data Capture and Validation,Data Governance & Integration,Software & Data Management
+digital,base,Data Center Infrastructure,Data Center Infrastructure,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Data Compression & Codecs,Data Compression & Codecs,Media Coding and Compression,Signal Processing & Communications
+digital,base,Data Integration,Data Integration,Data Governance & Integration,Software & Data Management
+digital,base,Data Sonification,Data Sonification,Human-Computer Interaction,Software & Data Management
+digital,base,Database Architecture & Query Systems,Database Architecture & Query Systems,Data Management & Processing,Software & Data Management
+digital,base,Database Management & Transactions,Database Management & Transactions,Data Management & Processing,Software & Data Management
+digital,base,Deformable Body Simulation,Deformable Body Simulation,Scientific Computing & Simulation,Software & Data Management
+digital,base,Demodulation & Detection,Demodulation & Detection,Signal Modulation,Signal Processing & Communications
+digital,base,Dependency Networks,Dependency Networks,Machine Learning,Artificial Intelligence
+digital,base,Digital Contact Tracing,Digital Contact Tracing,Wireless & Connectivity,Networking & Telecommunications
+digital,base,Digital Image Processing & Compositing,Digital Image Processing & Compositing,3D Visualization,Imaging & Display Technology
+digital,base,Digital Modulation,Digital Modulation,Signal Modulation,Signal Processing & Communications
+digital,base,Digital Signal Processing,Digital Signal Processing,Audio & Signal Processing,Signal Processing & Communications
+digital,base,Display Panels,Display Panels,Imaging & Display,Imaging & Display Technology
+digital,base,Domain Name System,Domain Name System,Network Services & Applications,Networking & Telecommunications
+digital,base,Driver Assistance Systems,Driver Assistance Systems,Road Vehicle Systems,Transport & Navigation Systems
+digital,base,Electronic Payment Processing,Electronic Payment Processing,Identification & Payment Systems,Cryptography & Security
+digital,base,Email Systems,Email Systems,Network Services & Applications,Networking & Telecommunications
+digital,base,Encryption & Cryptographic Primitives,Encryption & Cryptographic Primitives,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,Erasure Coding,Erasure Coding,Error Correction Coding,Signal Processing & Communications
+digital,base,Evolutionary & Swarm Optimization,Evolutionary & Swarm Optimization,Symbolic AI & Planning,Artificial Intelligence
+digital,base,Fiber-Optic Communication & Networking,Fiber-Optic Communication & Networking,Fiber-Optic Communication,Signal Processing & Communications
+digital,base,Field-Effect Transistors,Field-Effect Transistors,Microfabrication,Computing Hardware & Systems
+digital,base,"Fingerprinting, Similarity Detection & Content Retrieval","Fingerprinting, Similarity Detection & Content Retrieval",Data Management & Processing,Software & Data Management
+digital,base,Fire and Safety Detection Systems,Fire and Safety Detection Systems,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Frequency Modulation,Frequency Modulation,Signal Modulation,Signal Processing & Communications
+digital,base,Frequency Synthesis,Frequency Synthesis,Signal Modulation,Signal Processing & Communications
+digital,base,Fuzzy Logic Markup,Fuzzy Logic Markup,Web Standards & Middleware,Software & Data Management
+digital,base,"GNSS, Satellite Navigation & Positioning","GNSS, Satellite Navigation & Positioning",Navigation & Positioning,Transport & Navigation Systems
+digital,base,General Error Correction,General Error Correction,Error Correction Coding,Signal Processing & Communications
+digital,base,Geographic Information Systems,Geographic Information Systems,Data Management & Processing,Software & Data Management
+digital,base,Graph Reduction,Graph Reduction,Programming Languages & Software Engineering,Software & Data Management
+digital,base,Graph Search & Path Planning,Graph Search & Path Planning,Algorithms & Data Structures,Software & Data Management
+digital,base,Graphical User Interfaces & UX Design,Graphical User Interfaces & UX Design,Human-Computer Interaction,Software & Data Management
+digital,base,Grid & Distributed Computing Infrastructure,Grid & Distributed Computing Infrastructure,Web Standards & Middleware,Software & Data Management
+digital,base,"HDR, Tone Mapping & Image Capture","HDR, Tone Mapping & Image Capture",Imaging & Display,Imaging & Display Technology
+digital,base,Holography,Holography,Imaging & Display,Imaging & Display Technology
+digital,base,Hybrid Interactive TV,Hybrid Interactive TV,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,"IC Design, Packaging & Testing","IC Design, Packaging & Testing",Microfabrication,Computing Hardware & Systems
+digital,base,Imaging Sensors and Camera Systems,Imaging Sensors and Camera Systems,Imaging & Display,Imaging & Display Technology
+digital,base,Indexing & Search Structures,Indexing & Search Structures,Data Management & Processing,Software & Data Management
+digital,base,Indoor Positioning,Indoor Positioning,Wireless & Connectivity,Networking & Telecommunications
+digital,base,Industrial Control Systems & Fieldbuses,Industrial Control Systems & Fieldbuses,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Industrial Safety Interlocks,Industrial Safety Interlocks,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Input Devices & Interaction Techniques,Input Devices & Interaction Techniques,Human-Computer Interaction,Software & Data Management
+digital,base,Interferometric Methods,Interferometric Methods,Imaging & Display,Imaging & Display Technology
+digital,base,Lasers & Optoelectronic Devices,Lasers & Optoelectronic Devices,Fiber-Optic Communication,Signal Processing & Communications
+digital,base,Loop Constructs,Loop Constructs,Programming Languages & Software Engineering,Software & Data Management
+digital,base,MIMO & Spatial Signal Processing,MIMO & Spatial Signal Processing,Signal Modulation,Signal Processing & Communications
+digital,base,Magnetic NDT Methods,Magnetic NDT Methods,Non-Destructive Testing,Robotics & Manufacturing
+digital,base,Medical & Laboratory Robotics,Medical & Laboratory Robotics,Robots,Robotics & Manufacturing
+digital,base,Medical Imaging,Medical Imaging,Imaging & Display,Imaging & Display Technology
+digital,base,Medical Imaging Informatics,Medical Imaging Informatics,Application & Information Systems,Software & Data Management
+digital,base,Messaging Middleware,Messaging Middleware,Web Standards & Middleware,Software & Data Management
+digital,base,Monte Carlo Particle Transport,Monte Carlo Particle Transport,Scientific Computing & Simulation,Software & Data Management
+digital,base,Multiplexing & Multiple Access,Multiplexing & Multiple Access,Signal Modulation,Signal Processing & Communications
+digital,base,"NLP, Generative AI & Language Models","NLP, Generative AI & Language Models",Natural Language & Generative AI,Artificial Intelligence
+digital,base,Network Clock Synchronization,Network Clock Synchronization,Internet Protocols & Backbone,Networking & Telecommunications
+digital,base,Network Protocols & Infrastructure,Network Protocols & Infrastructure,Internet Protocols & Backbone,Networking & Telecommunications
+digital,base,Neural Interfaces and Biosignal Processing,Neural Interfaces and Biosignal Processing,Audio & Signal Processing,Signal Processing & Communications
+digital,base,Neural Networks & Deep Learning,Neural Networks & Deep Learning,Machine Learning,Artificial Intelligence
+digital,base,Numerical Weather Prediction,Numerical Weather Prediction,Scientific Computing & Simulation,Software & Data Management
+digital,base,OMG Metamodeling Standards,OMG Metamodeling Standards,Programming Languages & Software Engineering,Software & Data Management
+digital,base,"OS Kernel, Process & Memory Management","OS Kernel, Process & Memory Management",System Software & Virtualization,Computing Hardware & Systems
+digital,base,Optical Character Recognition,Optical Character Recognition,Computer Vision & Pattern Recognition,Artificial Intelligence
+digital,base,Optical Coherence Tomography,Optical Coherence Tomography,Imaging & Display,Imaging & Display Technology
+digital,base,Optical Polarization Control,Optical Polarization Control,Fiber-Optic Communication,Signal Processing & Communications
+digital,base,"PKI, Certificates & Secure Protocols","PKI, Certificates & Secure Protocols",Cryptography & Cybersecurity,Cryptography & Security
+digital,base,"Parsing, Grammars & Syntax Analysis","Parsing, Grammars & Syntax Analysis",Programming Languages & Software Engineering,Software & Data Management
+digital,base,Participatory Distributed Systems,Participatory Distributed Systems,Network Services & Applications,Networking & Telecommunications
+digital,base,Passive Optical Networking,Passive Optical Networking,Fiber-Optic Communication,Signal Processing & Communications
+digital,base,Pattern Matching & String Algorithms,Pattern Matching & String Algorithms,Programming Languages & Software Engineering,Software & Data Management
+digital,base,Physics Simulation Engines,Physics Simulation Engines,Scientific Computing & Simulation,Software & Data Management
+digital,base,Position and Proximity Sensing,Position and Proximity Sensing,Sensors & Detection,Robotics & Manufacturing
+digital,base,Power-Line Communication,Power-Line Communication,Wireless & Connectivity,Networking & Telecommunications
+digital,base,Powered Exoskeletons,Powered Exoskeletons,Robots,Robotics & Manufacturing
+digital,base,Printing & Copying Technology,Printing & Copying Technology,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Priority Queues,Priority Queues,Algorithms & Data Structures,Software & Data Management
+digital,base,Privacy-Preserving Data Techniques,Privacy-Preserving Data Techniques,Data Governance & Integration,Software & Data Management
+digital,base,Processor & Memory Architecture,Processor & Memory Architecture,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Programming Language Theory,Programming Language Theory,Programming Languages & Software Engineering,Software & Data Management
+digital,base,QKD Hardware and Encoding,QKD Hardware and Encoding,Quantum Cryptography,Quantum Computing
+digital,base,Quantum Cryptographic Primitives,Quantum Cryptographic Primitives,Quantum Cryptography,Quantum Computing
+digital,base,Quantum Error Correction,Quantum Error Correction,Quantum Error Correction,Quantum Computing
+digital,base,Quantum Network Protocols,Quantum Network Protocols,Quantum Cryptography,Quantum Computing
+digital,base,Quantum State Comparison,Quantum State Comparison,Quantum State Characterization,Quantum Computing
+digital,base,Quantum State Storage,Quantum State Storage,Quantum Computing Hardware,Quantum Computing
+digital,base,Quantum State Tomography,Quantum State Tomography,Quantum State Characterization,Quantum Computing
+digital,base,Quantum amplitude amplification,Quantum amplitude amplification,Quantum Algorithms,Quantum Computing
+digital,base,Quantum computation theory,Quantum computation theory,Quantum Algorithms,Quantum Computing
+digital,base,Quantum eigenvalue estimation,Quantum eigenvalue estimation,Quantum Algorithms,Quantum Computing
+digital,base,Quantum image processing,Quantum image processing,Quantum Algorithms,Quantum Computing
+digital,base,Quantum optimization,Quantum optimization,Quantum Algorithms,Quantum Computing
+digital,base,Quantum simulation,Quantum simulation,Quantum Algorithms,Quantum Computing
+digital,base,RF Test & Measurement,RF Test & Measurement,Signal Modulation,Signal Processing & Communications
+digital,base,RFID,RFID,Identification & Payment Systems,Cryptography & Security
+digital,base,Radar Systems & Signal Processing,Radar Systems & Signal Processing,Radar & RF Engineering,Signal Processing & Communications
+digital,base,Radio Data Services,Radio Data Services,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,Radio Receivers,Radio Receivers,Signal Modulation,Signal Processing & Communications
+digital,base,Railway Signalling & Train Control Systems,Railway Signalling & Train Control Systems,Traffic & Rail Management,Transport & Navigation Systems
+digital,base,Random Number Generation,Random Number Generation,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,Reactive Flow Modeling,Reactive Flow Modeling,Scientific Computing & Simulation,Software & Data Management
+digital,base,Remote Procedure Calls & Distributed Objects,Remote Procedure Calls & Distributed Objects,Web Standards & Middleware,Software & Data Management
+digital,base,Remotely Operated Underwater Vehicles,Remotely Operated Underwater Vehicles,Robots,Robotics & Manufacturing
+digital,base,Road Traffic Management & Passenger Information Systems,Road Traffic Management & Passenger Information Systems,Traffic & Rail Management,Transport & Navigation Systems
+digital,base,Robot Localization & Mapping,Robot Localization & Mapping,Robots,Robotics & Manufacturing
+digital,base,Robot Manipulators and Arm Systems,Robot Manipulators and Arm Systems,Robots,Robotics & Manufacturing
+digital,base,Semantic Web & Linked Data,Semantic Web & Linked Data,Web Standards & Middleware,Software & Data Management
+digital,base,Semiconductor Fabrication & Process Technology,Semiconductor Fabrication & Process Technology,Microfabrication,Computing Hardware & Systems
+digital,base,Sensor Communication Protocols,Sensor Communication Protocols,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Sensors and Detectors,Sensors and Detectors,Sensors & Detection,Robotics & Manufacturing
+digital,base,Service Robotics,Service Robotics,Robots,Robotics & Manufacturing
+digital,base,Smart Cards & Secure Elements,Smart Cards & Secure Elements,Identification & Payment Systems,Cryptography & Security
+digital,base,Smart Grid & Utility Automation,Smart Grid & Utility Automation,Industrial & Building Automation,Robotics & Manufacturing
+digital,base,Smart Television Platforms,Smart Television Platforms,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,Soft-Decision Decoding,Soft-Decision Decoding,Error Correction Coding,Signal Processing & Communications
+digital,base,Software Calculators,Software Calculators,Application & Information Systems,Software & Data Management
+digital,base,Software Design Patterns,Software Design Patterns,Programming Languages & Software Engineering,Software & Data Management
+digital,base,Software Testing & Quality Assurance,Software Testing & Quality Assurance,Programming Languages & Software Engineering,Software & Data Management
+digital,base,Sorting Algorithms,Sorting Algorithms,Algorithms & Data Structures,Software & Data Management
+digital,base,Sparse Graph Codes,Sparse Graph Codes,Error Correction Coding,Signal Processing & Communications
+digital,base,Spectral Imaging and Spectroscopy,Spectral Imaging and Spectroscopy,Imaging & Display,Imaging & Display Technology
+digital,base,Speech Processing & Voice Interfaces,Speech Processing & Voice Interfaces,Natural Language & Generative AI,Artificial Intelligence
+digital,base,"Spin, Ion, Atom & Photonic Qubits","Spin, Ion, Atom & Photonic Qubits",Quantum Computing Hardware,Quantum Computing
+digital,base,Stencil & Thermal Duplication,Stencil & Thermal Duplication,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,"Storage, Virtualization & File Systems","Storage, Virtualization & File Systems",System Software & Virtualization,Computing Hardware & Systems
+digital,base,Superconducting Qubits,Superconducting Qubits,Quantum Computing Hardware,Quantum Computing
+digital,base,Swarm and Legged Robotics,Swarm and Legged Robotics,Robots,Robotics & Manufacturing
+digital,base,"Symbolic AI, Knowledge & Agent Systems","Symbolic AI, Knowledge & Agent Systems",Symbolic AI & Planning,Artificial Intelligence
+digital,base,System Logging,System Logging,Web Standards & Middleware,Software & Data Management
+digital,base,System Security & Malware Defense,System Security & Malware Defense,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,TV Broadcasting Standards,TV Broadcasting Standards,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,TV Conditional Access,TV Conditional Access,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,TV Content Metadata Standards,TV Content Metadata Standards,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,TV Reception Hardware,TV Reception Hardware,Digital Television Broadcasting,Signal Processing & Communications
+digital,base,Tactile Sensing,Tactile Sensing,Robots,Robotics & Manufacturing
+digital,base,"Telephony, VoIP & Call Management","Telephony, VoIP & Call Management",Telephony & Signaling,Networking & Telecommunications
+digital,base,Thermal Label Printing,Thermal Label Printing,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Thermal Management,Thermal Management,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,Tree Data Structures,Tree Data Structures,Algorithms & Data Structures,Software & Data Management
+digital,base,Ultrasonic Testing,Ultrasonic Testing,Non-Destructive Testing,Robotics & Manufacturing
+digital,base,Unconventional Computing,Unconventional Computing,Computer Hardware & Peripherals,Computing Hardware & Systems
+digital,base,VSAM Data Access,VSAM Data Access,Data Management & Processing,Software & Data Management
+digital,base,Vehicle Electronics & Telematics,Vehicle Electronics & Telematics,Road Vehicle Systems,Transport & Navigation Systems
+digital,base,Wavefront Sensing,Wavefront Sensing,Imaging & Display,Imaging & Display Technology
+digital,base,Wearable Devices,Wearable Devices,Wireless & Connectivity,Networking & Telecommunications
+digital,base,Web Services Security,Web Services Security,Cryptography & Cybersecurity,Cryptography & Security
+digital,base,Web Standards & Protocols,Web Standards & Protocols,Web Standards & Middleware,Software & Data Management
+digital,base,Wireless Networks & Protocols,Wireless Networks & Protocols,Wireless & Connectivity,Networking & Telecommunications
+digital,intermediate,3D Visualization,3D Visualization,Imaging & Display Technology,Imaging & Display Technology
+digital,intermediate,Algorithms & Data Structures,Algorithms & Data Structures,Software & Data Management,Software & Data Management
+digital,intermediate,Application & Information Systems,Application & Information Systems,Software & Data Management,Software & Data Management
+digital,intermediate,Audio & Signal Processing,Audio & Signal Processing,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Computer Hardware & Peripherals,Computer Hardware & Peripherals,Computing Hardware & Systems,Computing Hardware & Systems
+digital,intermediate,Computer Vision & Pattern Recognition,Computer Vision & Pattern Recognition,Artificial Intelligence,Artificial Intelligence
+digital,intermediate,Cryptography & Cybersecurity,Cryptography & Cybersecurity,Cryptography & Security,Cryptography & Security
+digital,intermediate,Data Governance & Integration,Data Governance & Integration,Software & Data Management,Software & Data Management
+digital,intermediate,Data Management & Processing,Data Management & Processing,Software & Data Management,Software & Data Management
+digital,intermediate,Digital Fabrication,Digital Fabrication,Robotics & Manufacturing,Robotics & Manufacturing
+digital,intermediate,Digital Television Broadcasting,Digital Television Broadcasting,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Error Correction Coding,Error Correction Coding,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Fiber-Optic Communication,Fiber-Optic Communication,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Human-Computer Interaction,Human-Computer Interaction,Software & Data Management,Software & Data Management
+digital,intermediate,Identification & Payment Systems,Identification & Payment Systems,Cryptography & Security,Cryptography & Security
+digital,intermediate,Imaging & Display,Imaging & Display,Imaging & Display Technology,Imaging & Display Technology
+digital,intermediate,Industrial & Building Automation,Industrial & Building Automation,Robotics & Manufacturing,Robotics & Manufacturing
+digital,intermediate,Internet Protocols & Backbone,Internet Protocols & Backbone,Networking & Telecommunications,Networking & Telecommunications
+digital,intermediate,Machine Learning,Machine Learning,Artificial Intelligence,Artificial Intelligence
+digital,intermediate,Media Coding and Compression,Media Coding and Compression,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Microfabrication,Microfabrication,Computing Hardware & Systems,Computing Hardware & Systems
+digital,intermediate,Natural Language & Generative AI,Natural Language & Generative AI,Artificial Intelligence,Artificial Intelligence
+digital,intermediate,Navigation & Positioning,Navigation & Positioning,Transport & Navigation Systems,Transport & Navigation Systems
+digital,intermediate,Network Services & Applications,Network Services & Applications,Networking & Telecommunications,Networking & Telecommunications
+digital,intermediate,Non-Destructive Testing,Non-Destructive Testing,Robotics & Manufacturing,Robotics & Manufacturing
+digital,intermediate,Programming Languages & Software Engineering,Programming Languages & Software Engineering,Software & Data Management,Software & Data Management
+digital,intermediate,Quantum Algorithms,Quantum Algorithms,Quantum Computing,Quantum Computing
+digital,intermediate,Quantum Computing Hardware,Quantum Computing Hardware,Quantum Computing,Quantum Computing
+digital,intermediate,Quantum Cryptography,Quantum Cryptography,Quantum Computing,Quantum Computing
+digital,intermediate,Quantum Error Correction,Quantum Error Correction,Quantum Computing,Quantum Computing
+digital,intermediate,Quantum State Characterization,Quantum State Characterization,Quantum Computing,Quantum Computing
+digital,intermediate,Radar & RF Engineering,Radar & RF Engineering,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Road Vehicle Systems,Road Vehicle Systems,Transport & Navigation Systems,Transport & Navigation Systems
+digital,intermediate,Robots,Robots,Robotics & Manufacturing,Robotics & Manufacturing
+digital,intermediate,Scientific Computing & Simulation,Scientific Computing & Simulation,Software & Data Management,Software & Data Management
+digital,intermediate,Sensors & Detection,Sensors & Detection,Robotics & Manufacturing,Robotics & Manufacturing
+digital,intermediate,Signal Modulation,Signal Modulation,Signal Processing & Communications,Signal Processing & Communications
+digital,intermediate,Symbolic AI & Planning,Symbolic AI & Planning,Artificial Intelligence,Artificial Intelligence
+digital,intermediate,System Software & Virtualization,System Software & Virtualization,Computing Hardware & Systems,Computing Hardware & Systems
+digital,intermediate,Telephony & Signaling,Telephony & Signaling,Networking & Telecommunications,Networking & Telecommunications
+digital,intermediate,Traffic & Rail Management,Traffic & Rail Management,Transport & Navigation Systems,Transport & Navigation Systems
+digital,intermediate,Web Standards & Middleware,Web Standards & Middleware,Software & Data Management,Software & Data Management
+digital,intermediate,Wireless & Connectivity,Wireless & Connectivity,Networking & Telecommunications,Networking & Telecommunications
+digital,root,Artificial Intelligence,Artificial Intelligence,,Artificial Intelligence
+digital,root,Computing Hardware & Systems,Computing Hardware & Systems,,Computing Hardware & Systems
+digital,root,Cryptography & Security,Cryptography & Security,,Cryptography & Security
+digital,root,Imaging & Display Technology,Imaging & Display Technology,,Imaging & Display Technology
+digital,root,Networking & Telecommunications,Networking & Telecommunications,,Networking & Telecommunications
+digital,root,Quantum Computing,Quantum Computing,,Quantum Computing
+digital,root,Robotics & Manufacturing,Robotics & Manufacturing,,Robotics & Manufacturing
+digital,root,Signal Processing & Communications,Signal Processing & Communications,,Signal Processing & Communications
+digital,root,Software & Data Management,Software & Data Management,,Software & Data Management
+digital,root,Transport & Navigation Systems,Transport & Navigation Systems,,Transport & Navigation Systems
+green,node,is_EvT_1_1_1,1.1.1. Emissions abatement from stationary sources,1,Environmental management
+green,node,is_EvT_1_1_2,1.1.2. Emissions abatement from mobile sources,1,Environmental management
+green,node,is_EvT_1_1_3,1.1.3. Air pollution abatement - Not elsewhere classified,1,Environmental management
+green,node,is_EvT_1_2,1.2. Water pollution abatement,1,Environmental management
+green,node,is_EvT_1_3,1.3. Waste management,1,Environmental management
+green,node,is_EvT_1_4,1.4. Soil remediation,1,Environmental management
+green,node,is_EvT_1_5,1.5. Environmental monitoring,1,Environmental management
+green,node,is_EvT_2_1_1,2.1.1. Wind energy,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_2,2.1.2. Solar thermal energy,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_3,2.1.3. Solar photovoltaic (PV) energy,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_4,2.1.4. Solar thermal-PV hybrids,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_5,2.1.5. Geothermal energy,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_6,"2.1.6. Marine energy, e.g. using wave energy or salinity gradient",2,Energy generation/transmission/distribution
+green,node,is_EvT_2_1_7,2.1.7. Hydro energy,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_2,2.2. Energy generation from fuels of non-fossil origin,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_3,"2.3. Combustion technologies with mitigation potential (e.g. using fossil fuels, biomass, waste, etc.)",2,Energy generation/transmission/distribution
+green,node,is_EvT_2_4_1,2.4.1. Nuclear fusion reactors,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_4_2,2.4.2. Nuclear fission reactors,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_5,"2.5. Technologies for an efficient electrical power generation, transmission or distribution",2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_1_1,2.6.1.1. Batteries,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_1_2,2.6.1.2. Capacitors,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_1_3,2.6.1.3. Thermal energy storage,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_1_4,"2.6.1.4. Mechanical energy storage, e.g. flywheels or pressurised fluids",2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_2,2.6.2. Hydrogen technology,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_3,2.6.3. Fuel cells,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_6_4,2.6.4. High-voltage direct current transmission,2,Energy generation/transmission/distribution
+green,node,is_EvT_2_7,2.7. Other energy conversion or management systems reducing GHG emissions,2,Energy generation/transmission/distribution
+green,node,is_EvT_3_1,3.1. Capture or disposal of nitrous oxide (n2o),3,GHG capture/storage/disposal
+green,node,is_EvT_3_2,3.2. Capture or disposal of methane (CH4),3,GHG capture/storage/disposal
+green,node,is_EvT_3_3,"3.3. Capture or disposal of perfluorocarbons (PFC), hydrofluorocarbons (HFC) or sulfur hexafluoride (SF6)",3,GHG capture/storage/disposal
+green,node,is_EvT_3_4,3.4. Capture or disposal of carbon dioxide (CO2),3,GHG capture/storage/disposal
+green,node,is_EvT_4_1_1,4.1.1. Conventional vehicles (based on internal combustion engine),4,Transportation
+green,node,is_EvT_4_1_2,4.1.2. Hybrid vehicles,4,Transportation
+green,node,is_EvT_4_1_3,4.1.3. Electric vehicles,4,Transportation
+green,node,is_EvT_4_1_4,4.1.4. Fuel efficiency-improving vehicle design (common to all road vehicles),4,Transportation
+green,node,is_EvT_4_2,4.2. Rail transport,4,Transportation
+green,node,is_EvT_4_3,4.3. Aeronautics or air transport,4,Transportation
+green,node,is_EvT_4_4,4.4. Maritime or waterways transport,4,Transportation
+green,node,is_EvT_4_5_1,4.5.1. Electric vehicle charging,4,Transportation
+green,node,is_EvT_4_5_2,"4.5.2. Application of hydrogen technology to transportation, e.g. using fuel cells",4,Transportation
+green,node,is_EvT_5_1,5.1. Integration of renewable energy sources in buildings,5,Buildings
+green,node,is_EvT_5_2,5.2. Energy efficiency in buildings,5,Buildings
+green,node,is_EvT_5_3,5.3. Architectural or constructional elements improving the thermal performance of buildings,5,Buildings
+green,node,is_EvT_5_4,5.4. Enabling technologies in buildings,5,Buildings
+green,node,is_EvT_6_1,6.1. Waste water treatment,6,Wastewater/solid-waste
+green,node,is_EvT_6_2,6.2. Solid waste management,6,Wastewater/solid-waste
+green,node,is_EvT_6_3,6.3. Enabling technologies or technologies with a potential or indirect contribution to ghg emissions mitigation,6,Wastewater/solid-waste
+green,node,is_EvT_7_1,7.1. Technologies related to metal processing,7,Production/industry/agriculture
+green,node,is_EvT_7_2,7.2. Technologies relating to chemical industry,7,Production/industry/agriculture
+green,node,is_EvT_7_3,7.3. Technologies relating to oil refining and petrochemical industry,7,Production/industry/agriculture
+green,node,is_EvT_7_4_1,7.4.1. Production of cement,7,Production/industry/agriculture
+green,node,is_EvT_7_4_2,7.4.2. Production or processing of lime,7,Production/industry/agriculture
+green,node,is_EvT_7_4_3,7.4.3. Glass production,7,Production/industry/agriculture
+green,node,is_EvT_7_4_4,7.4.4. Ceramic production,7,Production/industry/agriculture
+green,node,is_EvT_7_5,"7.5. Technologies relating to agriculture, livestock or agroalimentary industries",7,Production/industry/agriculture
+green,node,is_EvT_7_6,7.6. Technologies in the production process for final industrial or consumer products,7,Production/industry/agriculture
+green,node,is_EvT_7_7,7.7. Climate change mitigation technologies for sector-wide applications,7,Production/industry/agriculture
+green,node,is_EvT_7_8,7.8. Enabling technologies with a potential contribution to ghg emissions mitigation,7,Production/industry/agriculture
+green,node,is_EvT_8,8. CLIMATE CHANGE MITIGATION IN INFORMATION AND COMMUNICATION TECHNOLOGIES ICT,8,ICT
+green,node,is_EvT_9_1,0.1. At coastal zones; at river basins,9,Climate change adaptation
+green,node,is_EvT_9_2,0.2. Water conservation; Efficient water supply; Efficient water use,9,Climate change adaptation
+green,node,is_EvT_9_3,0.3. Adapting or protecting infrastructure or their operation,9,Climate change adaptation
+green,node,is_EvT_9_4,"0.4. Adaptation technologies in agriculture, forestry, livestock or agroalimentary production",9,Climate change adaptation
+green,node,is_EvT_9_5,"0.5. In human health protection, e.g. against extreme weather",9,Climate change adaptation
+green,node,is_EvT_9_6,0.6. Technologies having an indirect contribution to adaptation to climate change,9,Climate change adaptation
+green,node,is_EvT_9,"9. SYSTEMS INTEGRATING TECHNOLOGIES RELATED TO POWER NETWORK OPERATION, COMMUNICATION OR INFORMATION TECHNOLOGIES FOR IMPROVING THE ELECTRICAL POWER GENERATION, TRANSMISSION, DISTRIBUTION, MANAGEMENT OR USAGE, i.e. SMART GRIDS",Y04S,Smart grids
+green,group,1,Environmental management,,Environmental management
+green,group,2,Energy generation/transmission/distribution,,Energy generation/transmission/distribution
+green,group,3,GHG capture/storage/disposal,,GHG capture/storage/disposal
+green,group,4,Transportation,,Transportation
+green,group,5,Buildings,,Buildings
+green,group,6,Wastewater/solid-waste,,Wastewater/solid-waste
+green,group,7,Production/industry/agriculture,,Production/industry/agriculture
+green,group,8,ICT,,ICT
+green,group,9,Climate change adaptation,,Climate change adaptation
+green,group,Y04S,Smart grids,,Smart grids

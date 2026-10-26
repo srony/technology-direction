@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+4_validation/eurostat/
+3_direction/contents_*/
+4_validation/direction_tables/
+4_validation/employment_test.csv
+*.log
+.ipynb_checkpoints/

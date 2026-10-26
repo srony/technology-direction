@@ -1,0 +1,224 @@
+domain,side,technology,match,value
+digital,occupation,Sorting Algorithms,substring of the entity title,refuse
+digital,occupation,Sorting Algorithms,substring of the entity title,filing
+digital,occupation,Sorting Algorithms,substring of the entity title,copying
+digital,occupation,Sorting Algorithms,substring of the entity title,mail
+digital,occupation,Sorting Algorithms,substring of the entity title,motor vehicle mech
+digital,occupation,Sorting Algorithms,substring of the entity title,coding
+digital,occupation,Sorting Algorithms,substring of the entity title,sewing
+digital,occupation,Demodulation & Detection,substring of the entity title,coding
+digital,occupation,Demodulation & Detection,substring of the entity title,translat
+digital,occupation,Demodulation & Detection,substring of the entity title,fibre
+digital,occupation,Demodulation & Detection,substring of the entity title,spinning
+digital,occupation,Demodulation & Detection,substring of the entity title,sales demonstr
+digital,occupation,Demodulation & Detection,substring of the entity title,wood treat
+digital,occupation,Demodulation & Detection,substring of the entity title,metal
+digital,occupation,Demodulation & Detection,substring of the entity title,well driller
+digital,occupation,Demodulation & Detection,substring of the entity title,borer
+digital,occupation,Demodulation & Detection,substring of the entity title,mineral
+digital,occupation,Demodulation & Detection,substring of the entity title,stone
+digital,occupation,Demodulation & Detection,substring of the entity title,pre-press
+digital,occupation,Optical Signaling,substring of the entity title,photographic products
+digital,occupation,Optical Signaling,substring of the entity title,railway
+digital,occupation,Optical Signaling,substring of the entity title,brake
+digital,occupation,Optical Signaling,substring of the entity title,motorcycle
+digital,occupation,Optical Signaling,substring of the entity title,transport conduct
+digital,occupation,General Error Correction,substring of the entity title,coding
+digital,occupation,General Error Correction,substring of the entity title,proof-read
+digital,occupation,General Error Correction,substring of the entity title,data entry
+digital,occupation,General Error Correction,substring of the entity title,typist
+digital,occupation,Processor & Memory Architecture,substring of the entity title,chemical
+digital,occupation,Processor & Memory Architecture,substring of the entity title,photographic
+digital,occupation,Processor & Memory Architecture,substring of the entity title,metal
+digital,occupation,Processor & Memory Architecture,substring of the entity title,petroleum
+digital,occupation,Processor & Memory Architecture,substring of the entity title,cement
+digital,occupation,AR/VR & Immersive Technologies,substring of the entity title,optometr
+digital,occupation,AR/VR & Immersive Technologies,substring of the entity title,optician
+digital,occupation,AR/VR & Immersive Technologies,substring of the entity title,medical
+digital,occupation,AR/VR & Immersive Technologies,substring of the entity title,dental
+digital,occupation,AR/VR & Immersive Technologies,substring of the entity title,physiother
+digital,occupation,"Symbolic AI, Knowledge & Agent Systems",substring of the entity title,advertis
+digital,occupation,"Symbolic AI, Knowledge & Agent Systems",substring of the entity title,metal
+digital,occupation,"Symbolic AI, Knowledge & Agent Systems",substring of the entity title,business serv
+digital,occupation,"Symbolic AI, Knowledge & Agent Systems",substring of the entity title,buyer
+digital,occupation,Unconventional Computing,substring of the entity title,chemist
+digital,occupation,Unconventional Computing,substring of the entity title,biolog
+digital,occupation,Unconventional Computing,substring of the entity title,pathology
+digital,occupation,Unconventional Computing,substring of the entity title,chemical
+digital,occupation,Unconventional Computing,substring of the entity title,life scien
+digital,occupation,Collision Detection,substring of the entity title,dancer
+digital,occupation,Collision Detection,substring of the entity title,choreograph
+digital,occupation,Collision Detection,substring of the entity title,air traffic
+digital,occupation,Remote Procedure Calls & Distributed Objects,substring of the entity title,farm
+digital,occupation,Remote Procedure Calls & Distributed Objects,substring of the entity title,forestry
+digital,occupation,Remote Procedure Calls & Distributed Objects,substring of the entity title,lifting truck
+digital,occupation,Indoor Positioning & Smart Connected Devices,substring of the entity title,medical
+digital,occupation,Indoor Positioning & Smart Connected Devices,substring of the entity title,veterinar
+digital,occupation,Indoor Positioning & Smart Connected Devices,substring of the entity title,dentist
+digital,occupation,Indoor Positioning & Smart Connected Devices,substring of the entity title,pathology
+digital,occupation,Software Calculators,substring of the entity title,medical
+digital,occupation,Software Calculators,substring of the entity title,physiother
+digital,occupation,Software Calculators,substring of the entity title,paramedic
+digital,occupation,Software Calculators,substring of the entity title,pharmac
+digital,occupation,Software Calculators,substring of the entity title,health
+digital,occupation,Software Calculators,substring of the entity title,nursing
+digital,occupation,Software Calculators,substring of the entity title,dental
+digital,occupation,Software Calculators,substring of the entity title,traditional
+digital,occupation,Physics Simulation Engines,substring of the entity title,agricultur
+digital,occupation,Physics Simulation Engines,substring of the entity title,farming
+digital,occupation,Physics Simulation Engines,substring of the entity title,forestry
+digital,occupation,Physics Simulation Engines,substring of the entity title,fisher
+digital,occupation,Physics Simulation Engines,substring of the entity title,field crop
+digital,occupation,Neural Networks & Deep Learning,substring of the entity title,librarian
+digital,occupation,Neural Networks & Deep Learning,substring of the entity title,teaching
+digital,occupation,Neural Networks & Deep Learning,substring of the entity title,education
+digital,occupation,Neural Networks & Deep Learning,substring of the entity title,proof-read
+digital,occupation,Evolutionary & Swarm Optimization,substring of the entity title,buyer
+digital,occupation,Evolutionary & Swarm Optimization,substring of the entity title,sales
+digital,occupation,Evolutionary & Swarm Optimization,substring of the entity title,stall
+digital,occupation,Evolutionary & Swarm Optimization,substring of the entity title,market
+digital,occupation,Evolutionary & Swarm Optimization,substring of the entity title,proof-read
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,garment
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,pattern-mak
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,sewing
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,forestry
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,wood
+digital,occupation,Pattern Matching & String Algorithms,substring of the entity title,mobile farm
+digital,industry,Deformable Body Simulation,substring of the entity title,textile
+digital,industry,Deformable Body Simulation,substring of the entity title,weaving
+digital,industry,Deformable Body Simulation,substring of the entity title,garment
+digital,industry,Deformable Body Simulation,substring of the entity title,felt
+digital,industry,Deformable Body Simulation,substring of the entity title,fashion
+digital,industry,Deformable Body Simulation,substring of the entity title,luggage
+digital,industry,Deformable Body Simulation,substring of the entity title,knitted
+digital,industry,Deformable Body Simulation,substring of the entity title,footwear
+digital,industry,Deformable Body Simulation,substring of the entity title,babies
+digital,industry,Deformable Body Simulation,substring of the entity title,synthetic
+digital,industry,Deformable Body Simulation,substring of the entity title,artificial
+digital,industry,Deformable Body Simulation,substring of the entity title,doll
+digital,industry,Deformable Body Simulation,substring of the entity title,toy
+digital,industry,Deformable Body Simulation,substring of the entity title,fur
+digital,industry,Deformable Body Simulation,substring of the entity title,jewel
+digital,industry,Deformable Body Simulation,substring of the entity title,sofa
+digital,industry,Deformable Body Simulation,substring of the entity title,fibre
+digital,industry,Powered Exoskeletons,substring of the entity title,footwear
+digital,industry,Powered Exoskeletons,substring of the entity title,garment
+digital,industry,Powered Exoskeletons,substring of the entity title,sporting
+digital,industry,Powered Exoskeletons,substring of the entity title,babies
+digital,industry,Powered Exoskeletons,substring of the entity title,sofa
+digital,industry,Powered Exoskeletons,substring of the entity title,weighing
+digital,industry,Powered Exoskeletons,substring of the entity title,freight
+digital,industry,Powered Exoskeletons,substring of the entity title,laborator
+digital,industry,Powered Exoskeletons,substring of the entity title,communicat
+digital,industry,Powered Exoskeletons,substring of the entity title,watch
+digital,industry,Powered Exoskeletons,substring of the entity title,clock
+digital,industry,EM Wave-Material Interaction,substring of the entity title,seamless
+digital,industry,EM Wave-Material Interaction,substring of the entity title,tube
+digital,industry,EM Wave-Material Interaction,substring of the entity title,machine tool
+digital,industry,EM Wave-Material Interaction,substring of the entity title,boring
+digital,industry,EM Wave-Material Interaction,substring of the entity title,turning
+digital,industry,EM Wave-Material Interaction,substring of the entity title,milling
+digital,industry,EM Wave-Material Interaction,substring of the entity title,drawn steel
+digital,industry,EM Wave-Material Interaction,substring of the entity title,forging
+digital,industry,EM Wave-Material Interaction,substring of the entity title,pressing
+digital,industry,EM Wave-Material Interaction,substring of the entity title,stamping
+digital,industry,EM Wave-Material Interaction,substring of the entity title,casting
+digital,industry,EM Wave-Material Interaction,substring of the entity title,metal
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,retail
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,post-harvest
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,vegetat
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,fish
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,crustacean
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,pet
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,preservation
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,planting
+digital,industry,Evolutionary & Swarm Optimization,substring of the entity title,agricultur
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,publishing
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,health
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,catering
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,binding
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,laborator
+digital,industry,Privacy-Preserving Data Techniques,substring of the entity title,collection of solid and non-solid hazardous waste
+digital,industry,Service & Domestic Robotics,substring of the entity title,astrolog
+digital,industry,Service & Domestic Robotics,substring of the entity title,spiritual
+digital,industry,Service & Domestic Robotics,substring of the entity title,tractor
+digital,industry,Service & Domestic Robotics,substring of the entity title,weighing
+digital,industry,Service & Domestic Robotics,substring of the entity title,protective safety
+digital,industry,Service & Domestic Robotics,substring of the entity title,storage
+digital,industry,Service & Domestic Robotics,substring of the entity title,verbatim
+digital,industry,System Logging,substring of the entity title,roundwood
+digital,industry,System Logging,substring of the entity title,forestry
+digital,industry,Unconventional Computing,substring of the entity title,medicinal
+digital,industry,Unconventional Computing,substring of the entity title,synthetic rubber
+digital,industry,Unconventional Computing,substring of the entity title,photographic
+digital,industry,Unconventional Computing,substring of the entity title,optical instrum
+digital,industry,Unconventional Computing,substring of the entity title,rubber
+digital,industry,Physics Simulation Engines,substring of the entity title,crop
+digital,industry,Physics Simulation Engines,substring of the entity title,animal
+digital,industry,Physics Simulation Engines,substring of the entity title,tractor
+digital,industry,Physics Simulation Engines,substring of the entity title,vegeta
+digital,industry,Physics Simulation Engines,substring of the entity title,growing
+digital,industry,Physics Simulation Engines,substring of the entity title,agricultur
+digital,industry,Physics Simulation Engines,substring of the entity title,forestr
+digital,industry,Physics Simulation Engines,substring of the entity title,wholesale
+digital,industry,Software Calculators,substring of the entity title,dental
+digital,industry,Software Calculators,substring of the entity title,medical
+digital,industry,Software Calculators,substring of the entity title,watch
+digital,industry,Sorting Algorithms,substring of the entity title,binding
+digital,industry,Sorting Algorithms,substring of the entity title,textile
+digital,industry,Sorting Algorithms,substring of the entity title,finishing
+digital,industry,Random Number Generation,substring of the entity title,vegetative planting materials
+digital,industry,"PKI, Certificates & Secure Protocols",substring of the entity title,pool securities
+digital,industry,Email Systems,substring of the entity title,postal services operating under a universal
+digital,industry,Email Systems,substring of the entity title,letter-post
+digital,industry,"Storage, Virtualization & File Systems",substring of the entity title,storage and warehouse facilities
+digital,industry,Database Architecture & Query Systems,substring of the entity title,storage and warehouse facilities
+digital,industry,Tree Data Structures,substring of the entity title,storage and warehouse facilities
+digital,industry,Data Capture and Validation,substring of the entity title,collection of solid and non-solid hazardous waste
+digital,industry,Semantic Web & Linked Data,substring of the entity title,"water collection, treatment and distribution"
+digital,industry,Software Design Patterns,substring of the entity title,via pipelines
+digital,industry,Compiler Optimization & Code Generation,substring of the entity title,complete television channel programme
+digital,industry,Driver Assistance Systems,substring of the entity title,aimed at the elderly and disabled in their homes
+digital,industry,Monte Carlo Particle Transport,substring of the entity title,other passenger road transport
+digital,industry,Quantum Error Correction,substring of the entity title,repair and maintenance of communications equipment
+digital,industry,Burst Error Correction,substring of the entity title,repair and maintenance of communications equipment
+digital,industry,Erasure Coding,substring of the entity title,repair and maintenance of communications equipment
+digital,industry,Erasure Coding,substring of the entity title,repair and maintenance of equipment not covered
+digital,industry,Soft-Decision Decoding,substring of the entity title,translation and interpretation activities
+digital,industry,General Error Correction,substring of the entity title,"catalogues, photos, engravings"
+digital,occupation,Quantum computation theory,entity code,3133
+digital,occupation,Quantum computation theory,entity code,2152
+digital,occupation,Quantum computation theory,entity code,2153
+digital,occupation,Quantum computation theory,entity code,8111
+digital,occupation,Quantum computation theory,entity code,3254
+digital,occupation,Quantum computation theory,entity code,7532
+digital,occupation,Quantum computation theory,entity code,2267
+digital,occupation,Quantum computation theory,entity code,3431
+digital,occupation,Quantum computation theory,entity code,8132
+digital,occupation,Quantum optimization,entity code,2152
+digital,occupation,Quantum optimization,entity code,2631
+digital,occupation,Quantum optimization,entity code,2120
+digital,occupation,Superconducting Qubits,entity code,2153
+digital,occupation,Superconducting Qubits,entity code,3133
+digital,occupation,Superconducting Qubits,entity code,7532
+digital,occupation,Quantum Error Correction,entity code,7311
+digital,occupation,Quantum Error Correction,entity code,3511
+digital,occupation,Quantum Error Correction,entity code,8111
+digital,occupation,Quantum Network Protocols,entity code,3133
+digital,occupation,Quantum Network Protocols,entity code,8111
+digital,occupation,Quantum simulation,entity code,3133
+digital,occupation,Spin Qubits,entity code,3133
+digital,occupation,Quantum image processing,entity code,3431
+digital,industry,Superconducting Qubits,entity code,27.3
+digital,industry,Superconducting Qubits,entity code,43.2
+digital,industry,Quantum computation theory,entity code,27.3
+digital,industry,Quantum computation theory,entity code,60.2
+digital,industry,Quantum computation theory,entity code,27.4
+digital,industry,Quantum Cryptographic Primitives,entity code,27.3
+digital,industry,Quantum Cryptographic Primitives,entity code,58.1
+digital,industry,Quantum Cryptographic Primitives,entity code,26.5
+digital,industry,Quantum image processing,entity code,18.1
+green,occupation,transport nodes (4.x),substring of the entity title,animal-drawn
+green,occupation,transport nodes (4.x),substring of the entity title,hand and pedal
+green,industry,transport nodes (4.x),substring of the entity title,hand-propelled
+green,industry,transport nodes (4.x),substring of the entity title,animal-drawn
