@@ -1,7 +1,7 @@
 ﻿# technology-direction
 
 A measure of the direction of technological change, substitution or complementarity, for technologies meeting
-occupations in industries. Language models do the judging at the three points of its construction where expert judgement
+occupations in industries. Language models do the judging at the three points of its construction where expert judgment
 was the bottleneck. The researchers set the design, keep a ledger of every intervention and validate each output against
 experts and against employment. The pipeline has run once from end to end, for the digital and the green technologies
 diffusing in Europe. This repository holds its outputs, the instrument that produced the direction ratings, and the
@@ -87,4 +87,4 @@ cannot be shared. The public-table version in `4_validation/` is the reproducibl
 ## Data terms
 
 The page lists derive from the English Wikipedia and carry its attribution terms (CC BY-SA). The green classification is
-the OECD ENV-TECH indicator. Employment data are Eurostat's. The code is released under the MIT licence.
+the OECD ENV-TECH indicator. Employment data are Eurostat's. The code is released under the MIT license.
