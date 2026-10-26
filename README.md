@@ -54,8 +54,7 @@ Rony and Ciarli (2026), *Silicon survey agents*.
 4_validation/
   direction_tables.py       stability, variance decomposition, sign changes across industries, figures
   employment_test.py        the employment test on the public Eurostat table lfsa_egai2d
-appendix/                   the technical appendix and the companion paper's draft (preliminary, not for circulation),
-                            so that the appendix's pointers to the paper's sections and appendices can be followed
+appendix/                   the technical appendix
 ```
 
 ## Running it
