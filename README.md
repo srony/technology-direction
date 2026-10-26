@@ -1,15 +1,17 @@
 ﻿# technology-direction
 
 A measure of the direction of technological change, substitution or complementarity, for technologies meeting
-occupations in industries. Language models do the judging at the three points of its construction where expert judgment
-was the bottleneck. The researchers set the design, keep a ledger of every intervention and validate each output against
-experts and against employment. The pipeline has run once from end to end, for the digital and the green technologies
-diffusing in Europe. This repository holds its outputs, the instrument that produced the direction ratings, and the
-scripts that rebuild the validation from the released files.
+occupations in industries. Language models judge at three points of its construction, the selection of technology pages,
+the review of the taxonomy and the review of the exposure links, and a model panel rates the direction itself. The
+researchers set the design and keep a ledger of every intervention. The taxonomy is checked against patent classes and
+citations, the exposure against published exposure indices, and the direction against an expert panel, the stability of
+repeated ratings and employment change. The pipeline has run once from end to end, for the digital and the green
+technologies diffusing in Europe. This repository holds its outputs, the instrument that produced the direction ratings,
+and the scripts that rebuild the validation from the released files.
 
 The full results are in the companion paper, Rony, Ciarli and Nomaler (2026), *Green and Digital Technology: Exposure,
-Substitution and Complementarity*, and the calibration of the rating instrument against a panel of some 600 experts in
-Rony and Ciarli (2026), *Silicon survey agents*.
+Substitution and Complementarity*. The calibration of the rating instrument against 608 experts, who rated technologies
+for work tasks in industries, is in Rony and Ciarli (2026), *Silicon survey agents*.
 
 ## The three steps
 
@@ -20,8 +22,9 @@ Rony and Ciarli (2026), *Silicon survey agents*.
    ENV-TECH classification.
 2. **Exposure.** The citation-weighted semantic similarity between patent text and the task text of occupations and the
    activity text of industries, the same text, embeddings and aggregation in both domains. A model judge reviews the
-   largest patent links of every technology and zeroes the cells that rest on a lexical coincidence. Every verdict is
-   released.
+   largest patent links of every technology. It moves patents to the technology they belong to, removes patents that are
+   not digital technologies, sets links to zero, and zeroes the cells that rest on a lexical coincidence. Every verdict
+   is released.
 3. **Direction.** An open-weight model rates substitution and complementarity separately for 11,977 triplets of a base
    technology, a three-digit occupation group and an industry section, under three workplace personas and in five
    draws, 30 ratings per triplet.
@@ -54,6 +57,7 @@ Rony and Ciarli (2026), *Silicon survey agents*.
 4_validation/
   direction_tables.py       stability, variance decomposition, sign changes across industries, figures
   employment_test.py        the employment test on the public Eurostat table lfsa_egai2d
+  eurostat/                 the four Eurostat tables the test uses, as downloaded between July and October 2026
 appendix/                   the technical appendix
 ```
 
@@ -69,12 +73,15 @@ python rate.py --grid grid.csv --out my_ratings.csv --limit 20
 python contents.py --window 2011 2023           # contents of every occupation and industry
 cd ../4_validation
 python direction_tables.py                      # reliability and structure of the released ratings
-python employment_test.py                       # fetches the Eurostat table on first run
+python employment_test.py                       # reads the included Eurostat tables
 ```
 
 `contents.py` and the two validation scripts run on the released files alone and reproduce the numbers of the
-companion paper's direction sections. `rate.py` reproduces the rating run for any grid with the same prompts, model
-and sampling settings. The exposure release reproduces the exposure scores of the paper for any window.
+companion paper's direction sections. The employment test reads the Eurostat tables as they were downloaded, so later
+revisions by Eurostat do not change its result, and it fetches a table only if the file is missing. `rate.py` reruns
+the rating instrument on any grid with the same prompts, model and sampling settings. The ratings are sampled at
+temperature 0.3 through an interface whose hosting provider was not recorded, so a rerun reproduces the distribution of
+the ratings, not each rating. The exposure release reproduces the exposure scores of the paper for any window.
 
 ## What is not here
 
@@ -87,4 +94,5 @@ cannot be shared. The public-table version in `4_validation/` is the reproducibl
 ## Data terms
 
 The page lists derive from the English Wikipedia and carry its attribution terms (CC BY-SA). The green classification is
-the OECD ENV-TECH indicator. Employment data are Eurostat's. The code is released under the MIT license.
+the OECD ENV-TECH indicator. Employment data are Eurostat's, reused with the source acknowledged as its reuse policy
+asks. The code is released under the MIT license.
