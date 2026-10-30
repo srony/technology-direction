@@ -5,3 +5,4 @@ __pycache__/
 4_validation/employment_test.csv
 *.log
 .ipynb_checkpoints/
+0_silicon_panel/results/
