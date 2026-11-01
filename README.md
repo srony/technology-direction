@@ -11,9 +11,9 @@ separate, on a taxonomy and an exposure measure that language models helped to b
 the result against employment change. This repository holds the silicon panel's prompts and code,
 the application's outputs and the scripts that rebuild its validation from the released files.
 
-This repository accompanies Rony, Ciarli and Nomaler (2026), *Substitution and Complementarity: From the Firm
-Hierarchy*, a paper in progress. The calibration of the silicon panel is in Rony and Ciarli (2026), *Silicon
-survey agents*.
+This repository accompanies Rony and Ciarli (2026), *Silicon Panels: Can Language Models Speak for Roles in the
+Firm?*, a paper in progress. The calibration of the silicon panel is in Rony and Ciarli (2026), *Silicon survey
+agents*.
 
 ## The silicon panel
 
